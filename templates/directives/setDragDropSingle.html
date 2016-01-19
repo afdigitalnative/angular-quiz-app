@@ -1,0 +1,30 @@
+<div class="row dragdropanswers hide" data-page="{{$parent.$parent.$parent.currentPageNum}}">
+
+   <span class="llist" ng-repeat="answerset in csection.QUESTIONS.QUESTION.ANSWERSET" on-finish-render="ngRepeatFinished" data-page="{{$parent.$parent.$parent.$parent.currentPageNum}}" ng-class="{selected:check_already_selected_dragdrop(answerset.ANSWER.TEXT, $parent.$parent.$parent.$parent.currentPageNum)}">
+        <span class="peg" x-lvl-draggable="true"  data-question-id="{{'page_'+ $parent.$parent.$parent.$parent.currentPageNum + '_question_'+ $index}}" data-correct-answer="{{get_correct_answer(answerset.ANSWER)}}" data-maxattempt="{{answerset['@maxAttempts']}}">{{answerset.ANSWER.TEXT}}</span>
+
+    </span>
+</div>
+
+<div class="row dragdropanswers2">
+</div>
+
+
+<label ng-repeat="answerset in csection.QUESTIONS.QUESTION.ANSWERSET"
+       ng-init="cquestion_id = 'page_'+ $parent.$parent.$parent.$parent.currentPageNum + '_question_'
+       + $index; drop_down_texts = get_drop_down_text_array(displayAsText(csection.QUESTIONS.QUESTION));
+       (meta[cquestion_id] === undefined)?meta[cquestion_id]={}:meta[cquestion_id]=meta[cquestion_id]">
+
+    <span ng-bind-html="drop_down_texts[$index] | sanitize"></span>
+    
+
+    <span data-question-id="{{cquestion_id}}" x-on-drop="dropped(answerset.ANSWER.TEXT, 'page_'+ $parent.$parent.$parent.$parent.currentPageNum)" class="slot" x-lvl-draggable='true' x-lvl-drop-target="true" >{{meta[cquestion_id]['selected']}}</span>
+
+    <span ng-class="meta[cquestion_id]['ansClass']"
+          ng-show="meta[cquestion_id]['showResult']">
+        <img ng-src="{{getImagePath(meta[cquestion_id]['isTrue'])}}">
+    </span>
+
+    <span ng-if="$last" ng-bind-html="drop_down_texts[$index+1] | sanitize"></span>
+
+</label>

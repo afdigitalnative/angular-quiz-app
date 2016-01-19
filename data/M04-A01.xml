@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on the answer which most appropriately fits the context.]]></COL>
+      <COL><![CDATA[Cliquez sur la réponse qui convient le mieux au contexte présenté.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Do you know how to tell the time? In the following exercise, you will practice the module’s vocabulary related to time expression.]]></COL>
+      <COL><![CDATA[Savez-vous indiquer l’heure ? Dans l’exercice suivant, vous mettrez en œuvre le vocabulaire relatif à l'expression du temps introduit dans le module.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<IMAGE>M04-A02-Q01.png</IMAGE>
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 7:35.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's twenty to seven.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's half-past seven.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's twenty-five to six.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q02.png</IMAGE>
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's two past two.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's a quarter past two.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's ten past two.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 10:10.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<IMAGE>M04-A02-Q03.png</IMAGE>
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 12:12.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's 12:02. ]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's twelve to twelve.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's twelve o'clock.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q04.png</IMAGE> 
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's a quarter to nine.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's a quarter past eight.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's a quarter to twelve]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's nine past eight.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q05.png</IMAGE> 			
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's five after one.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's five to one.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's eleven past one]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 11:05.  ]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q06.png</IMAGE> 			
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 3:49.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's 9:43]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 9:33]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 9:47  ]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q07.png</IMAGE> 			
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 2:20.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's twenty to two.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 1:20.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's twenty after two.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q08.png</IMAGE> 	
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 4:24.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's 4:44.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's twenty-four minutes to five.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 4:34.]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q09.png</IMAGE> 					
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's 12:32.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 11:23.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's 11:32.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 6:32. ]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<IMAGE>M04-A02-Q10.png</IMAGE> 				
+					<TEXT><![CDATA[]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER><TEXT><![CDATA[It's half-past twelve.]]></TEXT></ANSWER>
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[It's 11:12.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's 12:11.]]></TEXT></ANSWER>
+							<ANSWER><TEXT><![CDATA[It's noon.  ]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+			</QUESTIONS>
+		</SECTION>
+  </SECTIONS>
+</ACTIVITY>

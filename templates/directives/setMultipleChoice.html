@@ -1,0 +1,29 @@
+<label class="col-lg-12" ng-repeat="answer in question.ANSWERSET.ANSWER"
+       ng-init="(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+    <div class="float_left">
+        <input ng-disabled="meta[question_id].disabled"
+               ng-click="validate(get_correct_answer(answer), question_id, question.ANSWERSET['@maxAttempts'])"
+               type="radio"
+               ng-model="meta[question_id]['selected']"
+               ng-value="answer.TEXT ? answer.TEXT : answer.IMAGE || answer.AUDIO"
+               name="{{question_id}}"/>
+
+    <span ng-if="answer.TEXT"
+          ng-bind-html="displayAsText(answer) | sanitize"></span>
+
+        <img ng-if="answer.IMAGE"
+             ng-src="{{getImageAssetsPath(answer.IMAGE)}}"
+             class="q-img">
+
+        <audio ng-if="answer.AUDIO"
+               ng:src="{{getAssetsPath(answer.AUDIO)}}" controls>
+            <p>Your browser does not support the <code>audio</code> element </p>
+        </audio>
+    </div>
+    <span ng-class="meta[question_id]['ansClass']"
+          ng-show="meta[question_id]['showResult']">
+    <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+         ng-if="meta[question_id]['selected']==answer.TEXT || meta[question_id]['selected']==answer.IMAGE || meta[question_id]['selected']==answer.AUDIO">
+    </span>
+</label>
+

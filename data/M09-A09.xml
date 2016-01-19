@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+    <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on the answer which most appropriately fits the context.]]></COL>
+      <COL><![CDATA[Cliquez sur la réponse qui convient le mieux au contexte présenté.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Do you know how to tell the time? In the following exercise, you will practice the module’s vocabulary related to time expression.]]></COL>
+      <COL><![CDATA[Savez-vous indiquer l’heure ? Dans l’exercice suivant, vous mettrez en œuvre le vocabulaire relatif à l'expression du temps introduit dans le module.]]></COL>
+    </ROW>
+  </LANDING>
+    <SECTIONS shuffle="FALSE">
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <TEXT><![CDATA[« Monsieur et Madame Sincennes <u>s</u>’<b>aiment</b> depuis leur première rencontre dans une banque. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="FALSE">
+                            <IMAGE>M09-A09-A01a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <IMAGE>M09-A09-A01b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A01c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <TEXT><![CDATA[« Elles ne <u>se</u> <b>souviennent</b> pas du colloque national des infirmières canadiennes de 1978. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="TRUE">
+                            <IMAGE>M09-A09-A02a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A02b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A02c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <TEXT><![CDATA[« Marc et ses anciens collègues <u>se</u> <b>rencontreront</b> au cimetière du Père-Lachaise. C’est à deux rues d’ici ! »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="FALSE">
+                            <IMAGE>M09-A09-A03a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A03b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <IMAGE>M09-A09-A03c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <TEXT><![CDATA[« Est-ce que tous les participants <u>s</u>’<b>intéressent</b> au chèque-cadeau d’une valeur de 15 000 $ ? »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="TRUE">
+                            <IMAGE>M09-A09-A04a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A04b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A04c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <TEXT><![CDATA[« On ne <u>se</u> <b>parle</b> plus ! Je la déteste cordialement et elle ne m’aime guère ! »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="FALSE">
+                            <IMAGE>M09-A09-A05a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <IMAGE>M09-A09-A05b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A05c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <TEXT><![CDATA[« Chacune d’elles va <u>s</u>’<b>acheter</b> un apéro avant le repas ; elles le prendront ensemble dans la salle à dîner de l’auberge. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="TRUE">
+                            <IMAGE>M09-A09-A06a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A06b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A06c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <TEXT><![CDATA[« Ted et Jennifer <u>s</u>’<b>ennuient</b> de leurs parents lorsqu’ils prolongent leur séjour hivernal en Floride. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="TRUE">
+                            <IMAGE>M09-A09-A07a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A07b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A07c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <TEXT><![CDATA[« <b>Consultez</b>-<u>vous</u> pour savoir qui sont ceux parmi vous qui prévoient prendre des vacances au mois d’août. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="FALSE">
+                            <IMAGE>M09-A09-A08a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A08b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <IMAGE>M09-A09-A08c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <TEXT><![CDATA[« Monsieur et Madame Lee <u>s</u>’<b>écrivent</b> apparemment tous les jours, à l’exception du dimanche. »]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="FALSE">
+                            <IMAGE>M09-A09-A09a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <IMAGE>M09-A09-A09b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A09c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <TEXT><![CDATA[« Ces deux employées travaillent avec Madame Sincennes, mais ni l’une ni l’autre ne peuvent <u>se</u> <b>fier</b> au jugement de leur collègue. Fais-moi confiance, j’en sais quelque chose ! »<br /><br />]]></TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER correct="TRUE">
+                            <IMAGE>M09-A09-A10a.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A10b.png</IMAGE>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <IMAGE>M09-A09-A10c.png</IMAGE>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+    </SECTIONS>
+</ACTIVITY>

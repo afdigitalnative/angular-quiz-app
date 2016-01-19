@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Can you match the description of the tools with their picture? Tape the good number in the corresponding box. Press the "Enter" key after typing to validate each answer.]]></COL>
+      <COL><![CDATA[Pouvez-vous relier la description des outils avec leur image ? Tapez le bon nombre dans la case correspondante. Appuyez sur « Entrée » pour valider chaque réponse.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Which tool would you use to make a repair? <br /><br />In this activity you will put your knowledge to the test. <br /><br />Refer to the WHAT'S NEW and REFERENCES sections as needed.]]></COL>
+      <COL><![CDATA[Sauriez-vous quel outil utiliser pour effectuer une réparation ? <br /><br />Dans cette activité, vous allez mettre vos connaissances à l'épreuve. <br /><br />Au besoin, référez-vous aux sections NOUVEAUTÉS et RÉFÉRENCES du module.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+      <IMAGE>M15-A16-IMG01.png</IMAGE>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[{0} to replace a fuse in the basement]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[C]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[c]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to unblock a toilet]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[F]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[f]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to hang a picture on the wall]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[B]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[b]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to put Aunt Marie's plate back together]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[D]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[d]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to repaint the guest room]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[H]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[h]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to check if an electrical outlet works well]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[J]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[j]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to remove scratches from a table]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[A]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[a]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to resolder a pipe that leaks]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[G]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[g]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <IMAGE>M15-A16-IMG02.png</IMAGE>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[{0} to clean the dust on the floor]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[G]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[g]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to cut the branches of cedar hedges]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[D]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[d]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to chop wood for the fireplace]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[I]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[i]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to check if a shelf is straight]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[F]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[f]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to tighten a doorknob]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[B]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[b]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to plant a new shrub in the back yard]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[A]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[a]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[{0} to measure a mosquito screen before changing it]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[H]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[h]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

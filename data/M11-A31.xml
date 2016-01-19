@@ -1,0 +1,860 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Complete the sentences by clicking on the button that corresponds to the appropriate answer and then click on the Play button to listen to the correct answer.]]></COL>
+      <COL><![CDATA[Complétez les phrases en cliquant sur le bouton correspondant à la réponse appropriée puis cliquez sur le bouton de lecture pour entendre la bonne réponse.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+  	<ROW>
+  		<COL><![CDATA[You will recall from studying auxiliary verbs in Module 3 ("<b>do</b>") and Module 4 ("<b>be</b>") that they are normally used in negative statements as well as in affirmative and negative questions, short answers and tag questions. <br />In Module 6, we used modals in similar ways. <br />The same applies to verbs in the simple past. <br /><br />Did you know that...:
+
+		<li>"<b>did</b>" is the past tense equivalent of "<b>do / does</b>"</li>
+		<li>"<b>was / were</b>" are the past tense equivalents of "<b>am / is / are</b>"</li>
+		<li>some modal auxiliary verbs assume highly irregular forms in the simple past, while others do not change their form (see VERBS section)</li>
+
+		Listen to these conversational excerpts in the simple past, and then click on the correct answer.]]>
+
+		<![CDATA[Vous vous souvenez surement que les verbes auxiliaires, étudiés dans le Module 3 (<b>« do »</b>) et le Module 4 (<b>« be »</b>), sont normalement employés dans des énoncés négatifs, de même que dans des questions, des réponses courtes ou des « tags », aussi bien à la forme affirmative que négative. <br />Dans le Module 6, on a employé les semi-auxiliaires de la même façon. <br />Le même principe s'applique à la forme passé des verbes. <br /><br />Saviez-vous que...
+
+		<li><b>« did »</b> est l'équivalent à la forme passé de <b>« do / does »</b></li>
+		<li><b>« was / were »</b> sont les équivalents à la forme passé de <b>« am / is / are »</b></li>
+		<li>certains verbes semi-auxiliaires prennent une forme hautement irrégulière au passé, alors que d'autres ne changent pas leur forme (voir la section VERBES).</li>]]>
+		</COL>
+		<COL><![CDATA[<b textAlign="center">Examples / Exemples :</b>]]>
+		<![CDATA[<u textAlign="center">Present / Présent</u>]]>
+		<![CDATA[<u textAlign="center">Simple Past / Passé</u>]]>
+		<![CDATA[<br />“Does Irving's son study hard all year?”<br />“No, he doesn't.” <br /> <br />“Tourists are not supposed&nbsp;to touch the crown jewels, are they?” <br />“No, they're not.” <br /> <br />“Don't you think I can sing as&nbsp;well as Elton John?” <br />“Yes, I certainly do!” <br /> <br />“Must you always cry when&nbsp;you see pictures of Princess Diana?”]]>
+
+		<![CDATA[<br />“Did Irving's son study hard all year?” <br />“No, he didn't.” <br /> <br />“Tourists were not supposed to touch the crown jewels, were they?”&nbsp; <br />“No, they weren't.” <br /> <br />“Didn't you think I could sing as well as Elton John?”<br />“Yes, I certainly did!” <br /> <br />“Did you always have to cry when you saw pictures of Princess Diana?”]]>
+	</COL>
+	</ROW>
+</LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q01.mp3</AUDIO>
+
+					<TEXT><![CDATA["{0} you intend to telephone them yesterday?" "Yes, I did; however, I {1} find their number."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[Could]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Did]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[Were]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[can't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[could]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[couldn't]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q02.mp3</AUDIO>
+
+					<TEXT><![CDATA["Didn't Julia {0} her teacher when she arrived on time?" "Yes, she certainly {1} because she's usually so late for everything!"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[impress]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[impressed]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had to impress]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[was]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[did]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[should]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q03.mp3</AUDIO>
+
+					<TEXT><![CDATA["Your grandfather {0} to vacation every winter in sunny Florida, but he passed away the day after he left work, {1} ?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[hopes]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[hoped]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[will hope]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[didn't he]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[wasn't he]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[doesn't he]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q04.mp3</AUDIO>
+
+					<TEXT><![CDATA["This year it costs nine dollars to tour the palace; two years ago it {0} only eight dollars, didn't it?" "Yes, {1}."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[costs]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[cost]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had to cost]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[did it]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[it could]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[it did]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+
+
+
+
+
+
+							
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q05.mp3</AUDIO>
+
+					<TEXT><![CDATA["The young lady's junior high school teacher {0} that she {1} postpone her participation in the piano contest because she required more lessons."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[says]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[said]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[say]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[has to]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[had to]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+
+
+
+
+			</QUESTIONS>
+
+		</SECTION>
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q06.mp3</AUDIO>
+
+					<TEXT><![CDATA["Did Brian {0} the whole lesson yesterday afternoon?" "No, I'm afraid that he {1} only half of it."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[understands]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[understand]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[understood]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't understand]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[understood]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[misunderstand]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+
+
+		
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q07.mp3</AUDIO>
+
+					<TEXT><![CDATA["She hoped that it {0} snow more this year than last year, {1}?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[won't]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wouldn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[will]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't it]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[wouldn't it]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[didn't she]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q08.mp3</AUDIO>
+
+					<TEXT><![CDATA["Idiot! You already {0} on the throne, {1} you?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[sat]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't sit]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[wouldn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[couldn't]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[didn't]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q09.mp3</AUDIO>
+
+					<TEXT><![CDATA["Did Peggy decide to stay home last night because she had a lot of work to do?" "No, she {0} stay home because she {1} ill."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[need to]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[chose to]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[has to]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[felt]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had to feel]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't feel]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q10.mp3</AUDIO>
+
+					<TEXT><![CDATA["{0} you supposed to buy that book on the Victorian era for your uncle?" "No, I {1} - you were!"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[Was]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Weren't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[Didn't]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[weren't]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wasn't]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+
+
+			</QUESTIONS>
+
+		</SECTION>
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q11.mp3</AUDIO>
+
+					<TEXT><![CDATA["Louise {0} lose ten pounds when she went on her diet, wasn't she?" "No, she {1}."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[was able to]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[could]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't go]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[was]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[lost only two pounds]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q12.mp3</AUDIO>
+
+					<TEXT><![CDATA["Last fall, you said you {0} your vegetables because they last longer. Did you freeze them?" "Yes, I {1} them all."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[freezes]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[would freeze]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[will freeze]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[froze]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[freeze]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[would freeze]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+
+
+
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q13.mp3</AUDIO>
+
+					<TEXT><![CDATA["What did Princess Anne {0} about the questionnaire on Queen Victoria's reign?" "She {1} it was quite interesting."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[thinks]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[think]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[thought]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[think]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[thought]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[thinks]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q14.mp3</AUDIO>
+
+					<TEXT><![CDATA["Jenny and Ted didn't {0} too well at the party last night, {1}?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[sing]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[sang]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[sings]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't they]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[were they]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[did they]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q15.mp3</AUDIO>
+
+					<TEXT><![CDATA["Didn't the Prime Minister {0} reply promptly to the invitation to the Queen's Garden Party?" "No, he didn't; however, he {1} as soon as he got it."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[have]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[have to]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[had to]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[replied]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't reply]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[will reply]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+
+
+			</QUESTIONS>
+
+		</SECTION>
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q16.mp3</AUDIO>
+
+					<TEXT><![CDATA["You said you {0} drive me to the coronation, but then you {1} to pick me up at work!"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[can]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[could]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[were]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[forget]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[could forget]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[forgot]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q17.mp3</AUDIO>
+
+					<TEXT><![CDATA["She {0} away the empty bottles after the garden party, did she?" "No, she {1} them for her father-in-law."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[didn't throw]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[doesn'throw]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[throws]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[keep]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't keep]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[kept]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q18.mp3</AUDIO>
+
+					<TEXT><![CDATA["Did the Scottish lord really {0} the old Victorian tradition in his family?" "He was faithful, {1}?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[ignored]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[ignore]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[ignores]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wasn't he]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[wasn't she]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't he]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+	
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q19.mp3</AUDIO>
+
+					<TEXT><![CDATA["Cynthia, you weren't surprised that you {0} along with the cute guy's parents, {1}?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[gets]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[got]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[shall get]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[was she]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[weren't they]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[were you]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q20.mp3</AUDIO>
+
+					<TEXT><![CDATA["{0} you read a Sherlock Holmes book earlier this week?" "No, I {1} it last week."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Didn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[Do]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[Can't]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[don't read]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[have to read]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[read]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+
+
+			</QUESTIONS>
+
+		</SECTION>
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q21.mp3</AUDIO>
+
+					<TEXT><![CDATA["{0} you and your husband study English in London in the 1970's?" "No, we {1} French in Paris."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[Do]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Did]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[Were]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[studied]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[didn't study]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[were students]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+		
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q22.mp3</AUDIO>
+
+					<TEXT><![CDATA["Weren't you supposed to meet Julia for lunch today?" "No, {0}; we {1} together yesterday instead."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[didn't]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[I wasn't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[she was]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[should eat]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[eat]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[ate]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q23.mp3</AUDIO>
+
+					<TEXT><![CDATA["Elton John was very sad when the Princess of Wales {0} away, but he knew he {1} not cry while he sang his very touching song at her funeral."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[passed]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[past]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[pasted]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[can't]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[were]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[should]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+				
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q24.mp3</AUDIO>
+
+					<TEXT><![CDATA[Your poor friend Robert really {0} to hear his favourite female rock star when she was in Ottawa last week-end. Why {1} him a couple of tickets?"]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[wants]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wanted]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[doesn't want]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[couldn't you buy]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[you bought]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[could be buy]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+				
+
+	
+
+				<QUESTION>
+
+					<AUDIO isAnswer="TRUE">M11-A07-Q25.mp3</AUDIO>
+
+					<TEXT><![CDATA["The tour guide {0} colourful anecdotes on the history of Westminster Abbey, didn't she?" "That's right. She also {1} us many touching stories about the Royals."]]></TEXT>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[could provide]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[provided]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[provides]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+					<ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+						<ANSWER><TEXT><![CDATA[tell]]></TEXT></ANSWER>
+
+						<ANSWER><TEXT><![CDATA[said]]></TEXT></ANSWER>
+
+						<ANSWER CORRECT="TRUE"><TEXT><![CDATA[told]]></TEXT></ANSWER>
+
+					</ANSWERSET>
+
+				</QUESTION>
+
+
+
+			</QUESTIONS>
+
+		</SECTION>
+  </SECTIONS>
+</ACTIVITY>

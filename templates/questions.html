@@ -1,0 +1,107 @@
+<div class="jumbotron">
+    <div class="tabs fontScaleX{{fontSize}}">
+        <div id="Activity_landing_page" class="scroll-div ng-isolate-scope stepactivity" ng-show="landPanel">
+            <ul class=" nav nav-tabs tab-links">
+                <li class="active">
+                    <a>{{selectedActivity.title}}</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab com-tab active instruction-table">
+                    <table class="act_landing_table table table-striped table-hover table-condensed">
+                        <thead>
+                            <tr>
+                                <th class="heading" id="instruction_en" colspan="2">OBJECTIVES</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="obj in landRowObj">
+                                <td ng-repeat="col in obj " ng-bind-html="returnAsHtml(col)"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <input type="button" class="btn btn-primary FR_lang_button fontScaleX{{fontSize}}" value="DESCRIPTION IN FRENCH/ENGLISH"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 start-btn-group">
+                    <input id="back_previousbutton" type="button" class="start-activity btn btn-primary fontScaleX{{fontSize}}" value="START FROM BEGINNING" ng-click="startTest()" />
+                    <input id="startbutton" type="button" class="start-activity btn btn-primary fontScaleX{{fontSize}}" style="margin-left:4%;" value="START FROM WHERE I LEFT" />
+                </div>
+            </div>
+        </div>
+        <div id="Activity_landing_page" class="scroll-div ng-isolate-scope stepactivity" ng-hide="instPanel">
+            <ul class=" nav nav-tabs tab-links">
+                <li class="active">
+                    <a>{{selectedActivity.title}}</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab com-tab active instruction-table">
+                    <table class="table-instruction table table-striped table-bordered table-hover table-condensed">
+                        <thead>
+                            <tr>
+                                <th class="heading" id="instruction_en">ENGLISH INSTRUCTIONS</th>
+                                <th class="heading" id="instruction_fr">FRENCH INSTRUCTIONS</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="obj in instRowObj">
+                                <td ng-repeat="col in obj" ng-bind-html="returnAsHtml(col)"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>                
+                <div ng-if="attend_questions != 0 && total_questions == attend_questions" class="table-questions container {{activityType}} show_score">
+                    <span>{{score_percentage()}}%</span>
+                </div>
+                <div ng-hide="attend_questions != 0 && total_questions == attend_questions" class="table-questions container {{activityType}}">
+                    <question csection="currentSection"></question>
+                </div>
+            </div>
+            <div class="row space"></div>
+            <div ng-hide="attend_questions != 0 && total_questions == attend_questions" class="table-pagination container step4" style="display: block;">
+                <div class="row">
+                    <div id="description_div" class="col-sm-2 col-md-2 col-lg-2 row" ng-click="descriptionTest()">
+                        <span class="btn btn-default ng-click-active">Description</span>
+                    </div>
+                    <div id="page_number_div" class="col-sm-6 col-md-6 col-lg-6 row">
+                        <div paging
+                             page="currentPageNum"
+                             page-size="1"
+                             total="totalPageNum"
+                             paging-action="goToPage(page)">
+                        </div>
+                    </div>
+                    <!--<div id="score_div" class="col-sm-2 col-md-2 row">-->
+                        <!--<span class="btn btn-default" ng-bind="'Score  '+ score"></span>-->
+                        <!--<a href="#" class="activity-score" disabled="disabled" style="color: gray; pointer-events: none;" ng-click="score(score)">-->
+                            <!--<span ng-show="showScore">Score {{(score / 5) * 100}}%</span>-->
+                        <!--</a>-->
+                    <!--</div>-->
+
+                    <div id="quiz_div" class="col-sm-2 col-md-2 row">
+                        <span class="btn btn-default" ng-bind="'Question '+ answered_questions + ' / ' + totalQuestions"></span>
+                    </div>
+                    <div id="pn_div" class="col-sm-2 col-md-2 row">
+                        <ul class="pagination pagination-pn">
+                            <li>
+                                <a href="" class="previous" ng-click="preSection(currentPageNum)">
+                                    <img src="images/left-arrow.png" alt="Left Arrow">
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="pagination pagination-pn">
+                            <li>
+                                <a href="" class="next" ng-click="nextSection(currentPageNum)">
+                                    <img src="images/right-arrow.png" alt="Right Arrow">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

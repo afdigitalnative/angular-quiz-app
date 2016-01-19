@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Are the following statements TRUE or FALSE?<br /><br />Listen to the audio and click on the correct answer.]]></COL>
+      <COL><![CDATA[Les énoncés suivants, sont-ils VRAIS ou FAUX ?<br /><br />Écoutez l'audio, puis cliquez sur la réponse appropriée.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[How well do you know the attributes of the planets? <br /><br />In this activity you will learn astrology-related vocabulary. Refer to the horoscopes and astrological signs presented below.<br /><br /><br />Refer to the WHAT'S NEW and REFERENCES sections as needed.
+      <img src="data/assets/M11-A24/image/1.png" class="width-100"/>
+      <img src="data/assets/M11-A24/image/2.png" class="width-100"/>
+      <img src="data/assets/M11-A24/image/3.png" class="width-100"/>]]>
+    </COL>
+    <COL>
+      <![CDATA[Connaissez-vous les attributs des planètes ? <br /><br />Dans cette activité, vous allez apprendre le vocabulaire relatif à l'astrologie et l'astronomie. Réfèrez-vous aux horoscopes et aux signes astrologiques présentés ci-dessous.<br /><br />Au besoin, référez-vous aux sections NOUVEAUTÉS et RÉFÉRENCES du module.
+      <img src="data/assets/M11-A24/image/4.png" class="width-100"/>
+      <img src="data/assets/M11-A24/image/5.png" class="width-100"/>
+      <img src="data/assets/M11-A24/image/6.png" class="width-100"/>]]>
+    </COL>
+  </ROW>
+</LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A24-Q01.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q02.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q03.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q04.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q05.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A24-Q06.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q07.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE  ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q08.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q09.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q10.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A24-Q11.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q12.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q13.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q14.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q15.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A24-Q16.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q17.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q18.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q19.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO>M11-A24-Q20.mp3</AUDIO>
+          <TEXT><![CDATA[{0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[TRUE ]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[FALSE ]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

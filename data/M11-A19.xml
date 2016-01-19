@@ -1,0 +1,700 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Type the correct past verb form in the appropriate box. Press the "Enter" key after typing to validate your answer.]]></COL>
+      <COL><![CDATA[Conjuguez les verbes à la forme passé dans les cases vides. Appuyez sur « Entrée » pour valider votre réponse.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Once again, using the spelling rules found in the VERBS section of WHAT’S NEW?, change the verbs in brackets from the present tense into the simple past.]]></COL>
+      <COL><![CDATA[Encore une fois, à l’aide des règles d’orthographe servant à former le passé des VERBES réguliers qui se trouvent dans NOUVEAUTÉS, remplacez la forme au présent du verbe entre parenthèses par sa forme au passé.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[Cynthia <b>[recognises]</b> {0} Ted from a distance of about ten metres but she <b>[waits]</b> {1} before she said “hello”.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[recognised]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[waited]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“We <b>[welcome]</b> {0} the new guests when they <b>[arrive]</b> {1}.”]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[welcomed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[arrived]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The student <b>[prefers]</b> {0} to make her presentation a month later but her teacher disagreed. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[preferred]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“I cannot remember who <b>[wants]</b> {0} this postcard, so I <b>[slip]</b> {1} it under your door. I hope you like it!”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[wanted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[slipped]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The murderer <b>[states]</b> {0} his name and address for the detective and <b>[replies]</b> {1} to all his questions.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[stated]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[replied]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[“My boyfriend and I <b>[vacation]</b> {0} in England last year, where we <b>[visit]</b> {1} Buckingham Palace.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[vacationed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[visited]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Louise <b>[underlines]</b> {0} all her students’ spelling mistakes, <b>[submits]</b> {1} the work to the school’s English teachers and asked them for help. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[underlined]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[submitted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The elderly Queen Mother <b>[enjoys]</b> {0} the programme on corgis even though it <b>[finishes]</b> {1} late.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[enjoyed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[finished]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Julia <b>[looks]</b> {0} up at the sky and <b>[inquires]</b> {1} about the stars.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[looked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[inquired]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Everyone <b>[turns]</b> {0} on the radio and <b>[listens]</b> {1} to the news report about Elton John’s car accident in Piccadilly Circus.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[turned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[listened]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[“I <b>[purchase]</b> {0} a map of Africa last week, but then we <b>[decide]</b> {1} we’d go to Great Britain. Now I need a map of London!” <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[purchased]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[decided]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The customs officer <b>[investigates]</b> {0} that person very carefully; he also <b>[checks]</b> {1} each of his suitcases thoroughly.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[investigated]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[checked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“In Stratford-upon-Avon, I visited the cottage that Anne Hathaway <b>[owns]</b> {0}, while my sister <b>[shops]</b> {1}! ”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[owned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[shopped]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The travellers bought the prince a gift and then <b>[regret]</b> {0} it because he <b>[refuses]</b> {1} to accept it!<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[regretted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[refused]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Jenny <b>[attends]</b> {0} the play because her son <b>[participates]</b> {1} in it.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[attended]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[participated]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[Fred went to his mother-in-law’s home and a stranger <b>[answers]</b> {0} the door.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[answered]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[It <b>[rains]</b> {0} yesterday, even though the weatherman forecast sunny skies.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[rained]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Margaret <b>[smokes]</b> {0} for five years, but she <b>[stops]</b> {1} two years ago.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[smoked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[stopped]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“I thought I <b>[place]</b> {0} my keys on the table last night, but they’re not there this morning.” “I saw them! You <b>[drop]</b> {1} them on the floor, near the front door.” <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[placed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[dropped]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“I <b>[plan]</b> {0} to leave work early, but I <b>[remember]</b> {1} that I had to sign all the cheques late in the afternoon.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[planned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[remembered]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[“Something wonderful <b>[occurs]</b> {0}! Our family <b>[earns]</b> {1} more this year than last year.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[occured]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[earned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Sonia <b>[fails]</b> {0} the questionnaire, even though she <b>[prepares]</b> {1} for it carefully.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[failed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[prepared]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Mr. and Mrs. Holmes <b>[name]</b> {0} their dog Princess.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[named]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The chef <b>[assures]</b> {0} the customer that nothing <b>[compares]</b> {1} to his “cordon bleu” meal.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[assured]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[compared]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Miss Penny <b>[identifies]</b> {0} the man who <b>[enters]</b> {1} her house without her permission.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[identified]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[entered]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[“My friend and I <b>[note]</b> {0} the address of Sherlock Holmes’ flat when we were in London.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[noted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Everyone <b>[likes]</b> {0} Philip because he <b>[jokes]</b> {1} all the time. It is so sad that he <b>[dies]</b> {2} so young!<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[liked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[joked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[died]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Mr. Stock <b>[double-clicks]</b> {0} on the icon, <b>[downloads]</b> {1} the programme, then <b>[copies]</b> {2} it.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[double-clicked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[downloaded]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[copied]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The weary passenger <b>[pauses]</b> {0} before she <b>[describes]</b> {1} the courteous man who <b>[helps]</b> {2} her with her suitcases.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[paused]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[described]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[helped]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The renowned judge <b>[tastes]</b> {0} the wine before he <b>[evaluates]</b> {1} it.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[tasted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[evaluated]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[James <b>[weighs]</b> {0} three hundred pounds before he <b>[realises]</b> {1} he <b>[needs]</b> {2} to lose weight.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[weighed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[realised]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[needed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“Lady Libra <b>[rubs]</b> {0} oil on my hands because she <b>[notices]</b> {1} they were dry.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[rubbed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[noticed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Mrs. Lowe <b>[worries]</b> {0} about her husband because he <b>[works]</b> {1} too much.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[worried]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[worked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The baby-sitter <b>[supposes]</b> {0} that the children were still with her in the cottage, but when she <b>[turns]</b> {1} around, they weren’t there. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[supposed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[turned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“My brother and I always <b>[clean]</b> {0} our bedroom after we <b>[play]</b> {1} in it.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[cleaned]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[played]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[William the Conqueror <b>[responds]</b> {0} with force and <b>[invades]</b> {1} England in 1066.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[responded]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[invaded]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“I <b>[introduce]</b> {0} Edward to my colourful mother before I <b>[invite]</b> {1} him to my house.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[introduced]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[invited]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The customer <b>[mails]</b> {0} the cheque after she <b>[receives]</b> {1} the tickets.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[mailed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[received]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The student strongly <b>[disagrees]</b> {0} with her teacher; unfortunately, this problem greatly <b>[affects]</b> {1} her participation in the class, and she no longer <b>[studies]</b> {2}. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[disagreed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[affected]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[studied]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Some participants <b>[faint]</b> {0} because they <b>[exercise]</b> {1} for too long before they drank any water.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[fainted]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[exercised]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[Brian <b>[fills]</b> {0} out the application form two weeks ago, <b>[applies]</b> {1} for the job last week, and <b>[expects]</b> {2} an answer yesterday.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[filled]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[applied]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[expected]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Gloria <b>[demands]</b> {0} a lot of attention when she was a little girl; she <b>[cries]</b> {1} whenever she couldn’t sleep in her parents’ bed.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[demanded]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[cried]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“After the bank teller <b>[explains]</b> {0} the problem, I <b>[deposit]</b> {1} money into my account.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[explained]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[deposited]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[When these young people <b>[travel]</b> {0} to Europe, they <b>[stay]</b> {1} away from dark streets. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[travelled]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[stayed]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“My father <b>[watches]</b> {0} me closely as I <b>[try]</b> {1} to explain why I was late.”]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[watched]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[tried]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[“Dad, I hope you don’t mind: I <b>[use]</b> {0} your credit card when I <b>[reserve]</b> {1} the tickets.” <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[used]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[reserved]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“My wife <b>[complains]</b> {0} when I <b>[book]</b> {1} our vacation in September and not in June.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[complained]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[booked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[“The officer <b>[considers]</b> {0} the job until we <b>[talk]</b> {1} to her about that fictitious company.”<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[considered]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[talked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Ted <b>[asks]</b> {0} the Scottish tour guide about the unsuccessful assassination attempts on Queen Victoria’s life.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[asked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The princess didn’t start the diet because she <b>[dislikes]</b> {0} the food she had to eat. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[disliked]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

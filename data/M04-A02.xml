@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+    <INSTRUCTIONS>
+        <ROW>
+            <COL>
+                <![CDATA[Look at the image, listen to the audio and click on the correct answer.]]>
+            </COL>
+            <COL>
+                <![CDATA[Regarde bien l'image, écoute l'audio puis clique sur la réponse correspondante.]]>
+            </COL>
+        </ROW>
+    </INSTRUCTIONS>
+    <LANDING>
+        <ROW>
+            <COL>
+                <![CDATA[Savais-tu qu'apprendre l'heure en français revient juste à une bonne connaissance des chiffres et quelques formules et<br />règles ? <br /><br />En anglais, très souvent on laisse tomber le mot « o'clock ». Il est parfaitement acceptable de dire : <li>It's seven.</li><li>I'm leaving at three-thirty.</li>Ce n'est pas le cas en français, il faut toujours dire « heures » à la suite des chiffres, sauf avec « midi » et « minuit ».]]>
+
+                <![CDATA[Did you know that telling time in French is just a matter of knowing the numbers and a few formulas and rules? <br /><br />In English, we often leave out "o'clock". It's perfectly fine to say: <br /><li>It's seven.</li><li>I'm leaving at three-thirty.</li>Not so in French, you always have to say "heure", except with "midi" and "minuit".]]>
+
+                <![CDATA[<li>En français, l'heure et les minutes sont séparées par <b>« h »</b> (heure). En anglais, on utilise deux points « : »</li><li>Le français n'a pas de mots pour « a.m. » et « p.m. »</li><li><b>« matin »</b> est utilisé pour « a.m .»</li><li><b>« de l'après-midi »</b> est utilisé de midi jusqu'à 18 heures</li><li><b>« du soir »</b> à partir de 18 heures jusqu'à minuit</li>]]>
+            </COL>
+            <COL>
+                <![CDATA[In French, the hour and minute are separated by <b>"h"</b> (heure) where in English we use a colon ":"<li>French doesn't have words for "a.m." and "p.m."</li><li><b>"matin"</b> is used for "a.m."</li><li><b>"de l'après-midi"</b> from noon until 6 p.m.</li><li><b>"du soir"</b> from 6 p.m. until midnight</li>]]>
+
+                <![CDATA[<li>On écrit l'heure en chiffres, selon l'échelle de 24 heures.</li><li>00h00 correspond à minuit et 12h00 correspond à midi</li><li>3h00 est normalement exprimée en quinze heures ou 15h00, mais on peut aussi dire « trois heures de l'après-midi »</li>]]>
+
+                <![CDATA[<li>Time is usually expressed on a 24-hour clock.</li><li>00h00 means midnight and 12h00 means midday.</li><li>Thus 3 p.m. is normally expressed as quinze heures or 15h00, but you can also say "trois heures de l'après-midi"</li>]]>
+            </COL>
+        </ROW>
+    </LANDING>
+    <SECTIONS shuffle="FALSE">
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <IMAGE>M04-A02-Q01.png</IMAGE>
+                    <AUDIO>M04-A02-Q01.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est 6 h 25.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est cinq heures moins vingt.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est sept heures et demie.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[d) Il est six heures moins vingt-cinq.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <IMAGE>M04-A02-Q02.png</IMAGE>
+                    <AUDIO>M04-A02-Q02.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est deux heures six.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est deux heures et quart.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est 10 h 02.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[d) Il est deux heures dix.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <IMAGE>M04-A02-Q03.png</IMAGE>
+                    <AUDIO>M04-A02-Q03.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est 12 h 12.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[b) Il est 12 h 02.  ]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est midi moins douze.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est midi.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <IMAGE>M04-A02-Q04.png</IMAGE>
+                    <AUDIO>M04-A02-Q04.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[a) Il est neuf heures moins quart.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est huit heures et quart.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est neuf heures quarante-cinq.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est neuf heures moins quatre.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <IMAGE>M04-A02-Q05.png</IMAGE>
+                    <AUDIO>M04-A02-Q05.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est une heure cinq.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est une heure quinze.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[c) Il est une heure moins cinq.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est 11 h 05.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <IMAGE>M04-A02-Q06.png</IMAGE>
+                    <AUDIO>M04-A02-Q06.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[a) Il est 9 h 43.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est 3 h 49.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est 9 h 33.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est 9 h 53.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <IMAGE>M04-A02-Q07.png</IMAGE>
+                    <AUDIO>M04-A02-Q07.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est midi moins deux.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[b) Il est deux heures moins vingt.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est 1 h 20.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est deux heures vingt.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <IMAGE>M04-A02-Q08.png</IMAGE>
+                    <AUDIO>M04-A02-Q08.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est 4 h 24.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est cinq heures moins vingt-quatre.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[c) Il est 4 h 44.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est 4 h 34.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="FALSE">
+                <QUESTION>
+                    <IMAGE>M04-A02-Q09.png</IMAGE>
+                    <AUDIO>M04-A02-Q09.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est 1 h 32.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[b) Il est 11 h 42.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[c) Il est 11 h 32.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est 6 h 32.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+                <QUESTION>
+                    <IMAGE>M04-A02-Q10.png</IMAGE>
+                    <AUDIO>M04-A02-Q10.mp3</AUDIO>
+                    <TEXT>
+                        <![CDATA[]]>
+                    </TEXT>
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[a) Il est onze heures vingt-deux.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT>
+                                <![CDATA[b) Il est 11 h 12.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[c) Il est 12 h 11.]]>
+                            </TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="FALSE">
+                            <TEXT>
+                                <![CDATA[d) Il est midi moins onze.]]>
+                            </TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+    </SECTIONS>
+</ACTIVITY>

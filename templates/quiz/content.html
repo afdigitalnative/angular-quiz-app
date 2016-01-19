@@ -1,0 +1,63 @@
+<div class="jumbotron tabs step2 fontScaleX{{fontSize}}">
+    <tabset>
+        <tab heading="ACTIVITES">
+            <div class="row com-tab active">
+                <div class="mandatory-activities row">
+                    <div id="activitiesList" class="activitiesList">
+                        <div class="row" ng-repeat="activity in activityDataList">
+                            <span class="notAttempted"></span>
+                            <a href="questions" ng-click="setActivityId($index)" class="activity-item activityTityle" id="activity_{{$index}}">{{ activity.title }}</a>
+                            <span class="btn btn-sm btn-warning {{activity.type}}">{{ activity.meta }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </tab>
+        <tab heading="DIALOGUES">
+            <div class="row com-tab">
+                <div class="mandatory-activities row">
+                    <ul class="dialogue-content">
+                        <li ng-repeat="indDialogue in dialogue">
+                            <span class="{{indDialogue.className}}"></span>
+                            <span>{{indDialogue.diaName}}</span>
+                        </li>
+                    </ul>
+                    <ul class="dialogue-content">
+                        <li ng-repeat="indDialogue in dialogue">
+                            <span class="{{indDialogue.className}}"></span>
+                            <span>{{indDialogue.diaName}}</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="container space_activities row"></div>
+                <div class="non-mandatory-activities row">
+                    <ul class="dialogue-content">
+                        <li ng-repeat="indDialogue in dialogue">
+                            <span class="{{indDialogue.className}}"></span>
+                            <span>{{indDialogue.diaName}}</span>
+                        </li>
+                    </ul>
+                    <ul class="dialogue-content">
+                        <li ng-repeat="indDialogue in dialogue">
+                            <span class="{{indDialogue.className}}"></span>
+                            <span>{{indDialogue.diaName}}</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </tab>
+        <tab heading="END OF MODULE TEST">
+            <div class="row com-tab">
+            </div>
+        </tab>
+    </tabset>
+</div>
+<div class="jumbotron-footer jumbotron fontScaleX{{fontSize}}">
+    <ul class="legend">
+        <li><strong>LEGEND:</strong></li>
+        <li ng-repeat = "sta in status">
+            <span class="{{sta.className}}"></span>
+            <span>{{sta.statusName}}</span>
+        </li>
+    </ul>
+</div>

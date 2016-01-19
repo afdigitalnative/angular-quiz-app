@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on the Play button to listen to the dialogue (questions 1 to 4), then complete the sentences by clicking on the correct answer.]]></COL>
+      <COL><![CDATA[Cliquez sur le bouton de lecture pour écouter le dialogue (questions 1 à 4), puis complétez les phrases en cliquant sur la réponse appropriée.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Inspired by the Queen’s Garden Party during their recent stay in London, Ted and Jennifer plan to host a garden party of their own when they arrive home, in order to tell their friends about their trip.]]>
+
+      <![CDATA[Inspirés par la fête champêtre donnée par la Reine lors de leur récent séjour à Londres, Ted et Jennifer projettent d’organiser leur propre fête champêtre une fois arrivés chez eux, pour raconter leur voyage à leurs amis.]]>
+
+      <![CDATA[In Module 5, you learned several quantifying expressions, including:]]>
+      <![CDATA[Dans le module 5, vous avez appris plusieurs expressions pour parler d’une quantité, y compris :]]>
+
+      <![CDATA[&nbsp;“<b textAlign="center">more</b> / <b>less</b> / <b>fewer</b>” (+<b> noun</b>) + “<b>than</b>”]]>
+      <![CDATA[Did you know that these expressions become negative when preceded by “no”?&nbsp;]]>
+      </COL>
+
+      <COL>
+      <![CDATA[Saviez-vous que ces expressions deviennent négatives lorsqu’elles sont précédées de « no »?]]>
+
+      <![CDATA[After reading the dialogue, you will have to complete the sentences with the correct comparative quantifier. Your selection will be governed not only by the context of the dialogue, but also by the presence of countable versus non-countable nouns:&nbsp;&nbsp;]]>
+      <![CDATA[Après avoir lu le dialogue, vous devrez compléter les phrases avec le bon quantificateur comparatif. Votre choix sera influencé non seulement par le contexte du dialogue, mais également par le fait que les noms sont dénombrables ou indénombrables :]]>
+
+      <![CDATA[“<b>no more</b>” (+ un- / countable noun) + “<b>than</b>”<br />“<b>no less</b>” (+ uncountable noun) + “<b>than</b>”<br />“<b>no fewer</b>” (+ countable noun) + “<b>than</b>”]]>
+      <![CDATA[« <b>no more</b> » (+ nom dénombrable / indénombrable) + « <b>than</b> »<br />« <b>no less</b> » (+ nom indénombrable) + «<b> than</b> »<br />« <b>no fewer</b> » (+ nom dénombrable) + « <b>than</b> »]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A23-Q01.mp3</AUDIO>
+          <TEXT><![CDATA[<b>Jennifer:</b> Ted, I think we should plan no {0} than two garden parties every year. The first one should be no {1} than two weeks after we return from our trip, don’t you think?<br /><br /><b>Ted:</b> Yes, that sounds good. How many people should we invite?<br /><br /><b>Jennifer:</b> Well, no {2} than ninety people and no {3} than forty people. Maybe we should invite eighty. I’m sure no {4} than sixty will come and Cindy will probably invite no {5} than five friends of her own.<br /><br /><b>Ted:</b> That sounds great! I’m going to buy no {6} than fifty invitations. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A23-Q02.mp3</AUDIO>
+          <TEXT><![CDATA[<b>Jennifer:</b> Please do that. I have to work this week, so I don’t want to spend a lot of time on the plans. I can spend no {0} than ten hours on them. <br /><br /><b>Ted:</b> That’s alright! I will spend no {1} than ten hours, perhaps even fifteen.<br /><br /><b>Jennifer:</b> Thanks! If we’re expecting between sixty and eighty people, we should use no {2} than eight tables so that no {3}than ten people are at each table.<br /><br /><b>Ted:</b> That makes sense. We have to plan this event carefully though; we can spend no {4} money than we did for last year’s Christmas party.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A23-Q03.mp3</AUDIO>
+          <TEXT><![CDATA[<b>Jennifer:</b> Do you really think that’s enough? For a successful party, I think we have to spend no {0} money than $1,000, but no {1} than $1,500. <br /><br /><b>Ted:</b> O.K. I think that will be alright with me.<br /><br /><b>Jennifer:</b> Now, what about food? We certainly want to buy no {2} food than we think we are going to eat. But we don’t want to throw food away. Do you remember last Christmas? We had food from the party for no {3} than two weeks afterward. There was so much! We were able to give our son and his friend Brian some food of their own. We will give him no {4} than he received from us last year. <br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO>M11-A23-Q04.mp3</AUDIO>
+          <TEXT><![CDATA[<b>Ted:</b> Yes, I remember. Also, we should certainly buy no {0} wine than we think we will need. <br /><br /><b>Jennifer:</b> Do you think everyone will be impressed with our efforts?<br /><br /><b>Ted:</b> No {1} impressed than they usually are. I don’t think we’re forgetting anything. At any rate, there is nothing else we can do at the moment.<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[more]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[less]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[<i>"No more (...) than"</i> is used with: <br /> {0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[a) uncountable nouns (e.g. champagne)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[b) countable nouns (e.g. crown)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[c) countable (e.g. cat) and uncountable nouns (e.g. syrup)]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[<i>“No less (...) than”</i> is used with:<br /> {0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[a) uncountable nouns (e.g. rain)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[b) countable nouns (e.g. postcard)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[c) countable (e.g. cottage) and uncountable nouns (e.g. love)]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[<i>“No fewer (...) than”</i> is used with: <br /> {0}]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[a) uncountable nouns (e.g. milk)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[b) countable nouns (e.g. corgi)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[c) countable (e.g. story) and uncountable nouns (e.g. weather)]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

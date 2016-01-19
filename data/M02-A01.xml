@@ -1,0 +1,648 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+    <INSTRUCTIONS>
+        <ROW>
+            <COL><![CDATA[Click on the Play button to listen to the audio then type what you hear into the box. <br />Press the "Enter" key after typing to validate your answer.]]></COL>
+            <COL><![CDATA[Cliquez sur le bouton de lecture puis, écrivez ce que vous venez d'entendre. <br />Appuyez sur la touche « Entrée » pour valider votre réponse.]]></COL>
+        </ROW>
+    </INSTRUCTIONS>
+    <LANDING>
+        <ROW>
+            <COL><![CDATA[<u>Nouns ending in <b>"-y"</b> form their plurals in 2 different ways:</u>
+
+<li>If <b>"-y"</b> is preceded by a VOWEL (a, e, i, o, u), an <b>"s"</b> is simply added to the end of the word.</li>
+<li>If <b>"-y"</b> is preceded by a CONSONNANT, it is changed to <b>"i"</b> and <b>"-es"</b> is added</li>
+
+<u>As regard COMPOUND NOUN:</u>
+
+<li>If the combination is <b>"noun + noun"</b>, the first noun usually remains singular, and the second noun assumes the plural form.Otherwise, only the principal segment is pluralised</li>
+<li>Most nouns ending in <b>"-f"</b> or <b>"-fe"</b> form their plurals by changing the <b>"-f"</b> to <b>"v"</b> and adding <b>"-es"</b></li>
+<li>Most nouns containing <b>"man"</b> form their plurals by changing the "a" to <b>"e"</b>finally</li>
+<li>Some plural forms are simply isolated exceptions.</li>]]></COL>
+            <COL><![CDATA[<u>Les noms se terminant par <b>« -y »</b> forment leur pluriel de deux façons :</u>
+
+<li>Si le <b>« -y »</b> est précédé d'une VOYELLE (a, e, i, o, u) on ajoute un <b>« -s »</b> à la fin du nom</li>
+<li>Si le <b>« -y »</b> est précédé d'une CONSONNE, on remplace le <b>« -y »</b> par <b>« i »</b> et on ajoute <b>« -es »</b></li>
+
+<u>En ce qui concerne les NOMS COMPOSÉS:</u>
+
+<li>Dans le cas de la structure <b>« nom + nom »</b>, normalement le premier nom demeure au singulier et le deuxième nom assume la forme du pluriel. Sinon, seul le mot principal est modifié</li>
+<li>La plupart des noms se terminant par <b>« -f »</b> ou <b>« -fe »</b> forment leur pluriel en remplaçant le <b>« -f »</b> par un <b>« v »</b> et en ajoutant <b>«- es »</b>.</li>
+<li>La plupart des noms contenant <b>« man »</b> forment leur pluriel en remplaçant le <b>« a »</b> par <b>« e »</b></li>
+<li>Il existe finalement quelques formes de pluriel qui sont tout simplement des exceptions.</li>]]></COL>
+        </ROW>
+    </LANDING>
+    <SECTIONS shuffle="FALSE">
+        <SECTION>
+
+
+
+            <QUESTIONS shuffle="FALSE">
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q01.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[ages]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q02.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[mothers-in-law]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q03.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[seventies]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q04.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[men]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q05.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[companies]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q06.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[lives]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+            </QUESTIONS>
+
+        </SECTION>
+        <SECTION>
+
+            <QUESTIONS shuffle="FALSE">
+
+
+
+
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q07.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[twenties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q08.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[boys]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q09.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[brothers-in-law]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q10.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[dreams]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q11.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[nineties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q12.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[houses]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+
+
+            </QUESTIONS>
+
+        </SECTION>
+        <SECTION>
+
+            <QUESTIONS shuffle="FALSE">
+
+
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q13.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[children]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q14.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[fortune-tellers]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q15.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[businessmen]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q16.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[sixties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q17.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[countries]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q18.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[futures]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+
+
+            </QUESTIONS>
+
+        </SECTION>
+        <SECTION>
+
+            <QUESTIONS shuffle="FALSE">
+
+
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q19.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[apartment numbers]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q20.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[thirties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q21.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[wives]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q22.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[families]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q23.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[women]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q24.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[fifties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+
+
+            </QUESTIONS>
+
+        </SECTION>
+        <SECTION>
+
+            <QUESTIONS shuffle="FALSE">
+
+
+
+
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q25.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[sisters-in-law]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q26.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[nieces]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q27.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[eighties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q28.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[ladies]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q29.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[week-ends]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+                <QUESTION>
+
+                    <AUDIO>M02-A01-Q30.mp3</AUDIO>
+
+                    <TEXT><![CDATA[{0}]]></TEXT>
+
+                    <ANSWERSET controlType="input" shuffle="FALSE" maxAttempts="1">
+
+                        <ANSWER CORRECT="TRUE">
+
+                            <TEXT><![CDATA[forties]]></TEXT>
+
+                        </ANSWER>
+
+                    </ANSWERSET>
+
+                </QUESTION>
+
+
+
+
+
+
+
+            </QUESTIONS>
+
+        </SECTION>
+    </SECTIONS>
+</ACTIVITY>

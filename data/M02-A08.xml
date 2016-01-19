@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Drag each word from the suggested list to the appropriate box in the text.]]></COL>
+      <COL><![CDATA[À partir de la liste suggéré, glissez le mot approprié dans la case vide correspondante.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Would you know how to describe a family? <br /><br />In the following exercise, you will practice the module’s vocabulary and your conjugation skills through playing a fill-in-the-blanks game.]]></COL>
+      <COL><![CDATA[Sauriez-vous décrire une famille ? <br /><br />Dans l’exercice suivant, vous pratiquerez vos compétences en conjugaison ainsi que le vocabulaire introduit dans ce module, à l’aide d’un texte-à-trous.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+
+			<QUESTIONS shuffle="FALSE">
+
+				<QUESTION>
+
+					
+
+					<TEXT><![CDATA[I {0} a good friend in her thirties: {1} name is Estelle and she {2} the future. She {3} divorced and {4} on Astral Drive. Her first husband's {5} is Tony. He {6} a tall, handsome doctor in his forties, and is {7} to Sandra, a beautiful nurse about thirty-six years {8}. Sandra {9} from Italy, and {10} Italian. She's the {11} Tony and Estelle {12} divorced.]]></TEXT> 
+                                      
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[have]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[her]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[sees]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[is]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[lives]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[name]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[is]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[ married]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+     					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[old]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[comes]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[speaks]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+                        
+                        <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[reason]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[are]]></TEXT></ANSWER>
+						</ANSWERSET>
+
+					
+				</QUESTION>
+				
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+			
+				<QUESTION>
+					
+					<TEXT><![CDATA[Sandra's parents are deceased, and her two {0}, Brian and Julia, {1} with their father, James Davidson. James is an {2}, successful businessman {3} Victoria. James {4} with {5} new wife, Estelle, {6} Astral Drive. They have a good {7} and a {8} life with little trips to the {9}. James' children are good students and the {10} certainly belongs to {11}.]]></TEXT>
+					                                        
+
+
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[children]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[live]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[honest]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[from]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[lives]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[his]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[on]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+								
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[marriage]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wonderful]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[country]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[future]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+			
+
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[them]]></TEXT></ANSWER>
+
+						</ANSWERSET>
+
+					
+
+				</QUESTION>
+
+				
+
+				
+
+				
+
+			</QUESTIONS>
+
+		</SECTION>
+  </SECTIONS>
+</ACTIVITY>

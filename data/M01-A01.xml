@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+    <INSTRUCTIONS>
+        <ROW>
+            <COL>
+                <![CDATA[Click on the Play button to listen to the audio. Click on the answer which most appropriately fits the context.]]></COL>
+            <COL>
+                <![CDATA[Cliquez sur le bouton de lecture puis cliquez sur la réponse qui correspond le mieux au contexte présenté.]]></COL>
+        </ROW>
+    </INSTRUCTIONS>
+    <LANDING>
+        <ROW>
+            <COL>
+                <![CDATA[In the following exercise, you will sharpen your numbers listening comprehension. Listen carefully to the audio, then click on the correct answer.]]></COL>
+            <COL>
+                <![CDATA[Dans l’exercice suivant, vous allez perfectionner votre compréhension orale des nombres. Écoutez attentivement l'audio, puis cliquez sur la réponse appropriée.]]></COL>
+        </ROW>
+    </LANDING>
+    <SECTIONS shuffle="FALSE">
+        <SECTION>
+            <QUESTIONS shuffle="TRUE">
+                <QUESTION>
+                    <AUDIO>91_macdonald.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER>
+                            <TEXT><![CDATA[19 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[99 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[91 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+                <QUESTION>
+                    <AUDIO>15_stevens.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER>
+                            <TEXT><![CDATA[53 Stevens Road]]></TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[15 Stevens Road]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[50 Stevens Road]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="TRUE">
+                <QUESTION>
+                    <AUDIO>17_winnipeg.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER>
+                            <TEXT><![CDATA[73 Winnipeg Drive]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[77 Winnipeg Drive]]></TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[17 Winnipeg Drive]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+                <QUESTION>
+                    <AUDIO>94_ottawa.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[94 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[14 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[49 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+        <SECTION>
+            <QUESTIONS shuffle="TRUE">
+                <QUESTION>
+                    <AUDIO>91_macdonald.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER>
+                            <TEXT><![CDATA[19 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[99 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[91 MacDonald Avenue]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+                <QUESTION>
+                    <AUDIO>94_ottawa.mp3</AUDIO>
+                    <TEXT><![CDATA[]]></TEXT>
+
+                    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+                        <ANSWER CORRECT="TRUE">
+                            <TEXT><![CDATA[94 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[14 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                        <ANSWER>
+                            <TEXT><![CDATA[49 Ottawa Street]]></TEXT>
+                        </ANSWER>
+                    </ANSWERSET>
+
+                </QUESTION>
+            </QUESTIONS>
+        </SECTION>
+    </SECTIONS>
+</ACTIVITY>

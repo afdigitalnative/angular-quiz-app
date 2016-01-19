@@ -1,0 +1,41 @@
+<label class="setButton" ng-repeat="answer in question.ANSWERSET.ANSWER"
+       ng-init="(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+    <div class="float_left">
+        <input type = "button"
+               class="btn btn-info button"
+               ng-disabled = "meta[question_id].disabled"
+               ng-click = "validate(get_correct_answer(answer), question_id, question.ANSWERSET['@maxAttempts'], answer.TEXT, 'setInput')"
+               ng-model = "meta[question_id]['selected']" ng-value="answer.TEXT?answer.TEXT:answer.IMAGE||answer.AUDIO"
+               name = "{{question_id}}"/>
+    </div>
+<span ng-class="meta[question_id]['ansClass']" ng-show="meta[question_id]['showResult']">
+    <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+         ng-if="meta[question_id]['selected']==answer.TEXT || meta[question_id]['selected']==answer.IMAGE || meta[question_id]['selected']==answer.AUDIO">
+    </span>
+</label>
+
+<span class="setButton" ng-repeat="answerset in csection.QUESTIONS.QUESTION.ANSWERSET"
+       ng-init="q_id = 'page_'+ $parent.$parent.$parent.$parent.currentPageNum + '_question_' + $index; p_id = $index; drop_down_texts = get_drop_down_text_array(displayAsText(csection.QUESTIONS.QUESTION)); drop_down_texts = get_drop_down_text_array(displayAsText(csection.QUESTIONS.QUESTION));(meta[q_id] === undefined)?meta[q_id]={}:meta[q_id]=meta[q_id]">
+
+    <span ng-bind-html="drop_down_texts[$index] | sanitize"></span>
+
+    <label ng-repeat="answer in answerset.ANSWER">
+        <div class="float_left">
+       
+          <input type = "button"
+                 class="btn btn-info button"
+                 ng-disabled = "meta[q_id].disabled"
+                 ng-click = "validate(get_correct_answer(answer), q_id, answerset['@maxAttempts'], answer.TEXT, 'setMulti_Input')"
+                 ng-model = "meta[q_id]['selected']" ng-value="answer.TEXT?answer.TEXT:answer.IMAGE||answer.AUDIO"
+                 name = "{{q_id}}"/>
+       
+        </div>
+
+        <span ng-class="meta[q_id]['ansClass']" ng-show="meta[q_id]['showResult']">
+          <img ng-src="{{getImagePath(meta[q_id]['isTrue'])}}"
+               ng-if="meta[q_id]['selected']==answer.TEXT || meta[q_id]['selected']==answer.IMAGE || meta[q_id]['selected']==answer.AUDIO">
+        </span>                   
+ 
+    </label>
+
+</span>

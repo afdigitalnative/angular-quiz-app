@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on each PLAY button to hear the facts related to Canadian government, then answer the questions and listen to the good answer.<br /><br />Note that some vocabulary mentioned here, although not presented in the dialogue, may be found in the vocabulary lists of WHAT’S NEW?.]]></COL>
+      <COL><![CDATA[Cliquez sur chaque bouton de lecture pour écouter les faits relatifs au gouvernement canadien, puis répondez aux questions et écoutez la bonne réponse.<br /><br />Notez que certains éléments de vocabulaire employés, quoiqu’ils n’apparaissent pas dans le dialogue, sont consignés dans les listes de vocabulaire des NOUVEAUTÉS.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[The third category of information which Catherine sends Bruce is related to Canada’s system of government. These are ten facts related to the Canadian government:]]></COL>
+      <COL><![CDATA[La troisième catégorie d'informations que Catherine a envoyées à Bruce se rapporte au système gouvernemental canadien. Voici dix faits reliés au gouvernement canadien:]]></COL>
+    </ROW>
+</LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+	<AUDIOS>
+		<AUDIO isAnswer="TRUE">
+			<PATH>M13-A15-Q01.mp3</PATH>
+			<TEXT>&#x201C;The Government of Canada&#x201D;</TEXT>
+		</AUDIO>
+		<AUDIO>
+			<PATH>M13-A15-Q02.mp3</PATH>
+			<TEXT>Parliament, etc.</TEXT>
+		</AUDIO>
+	</AUDIOS>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q03.mp3</AUDIO>
+          <TEXT><![CDATA[Canada's Head of States is _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[the Prime Minister]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Premier]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Governor-General]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[the Queen]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q04.mp3</AUDIO>
+          <TEXT><![CDATA[The Queen's representative in Canada is _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Lieutenant-Governor]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[the Prime Minister]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Premier]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[the Governor-General]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q05.mp3</AUDIO>
+          <TEXT><![CDATA[_______ leads Canada's government.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The ten premiers]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[The ten Lieutenant-Governors]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The Speaker of the House]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[The Prime Minister]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q06.mp3</AUDIO>
+          <TEXT><![CDATA[The three levels of government in Canada are:]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[royal, federal, provincial]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[parliamentary, national, provincial]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[federal, provincial, municipal]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[local, provincial, territorial]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q07.mp3</AUDIO>
+          <TEXT><![CDATA[The Queen's representative in the provinces and territories is _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[the Lieutenant-Governor]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[the Premier]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Prime Minister]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Governor-General]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q08.mp3</AUDIO>
+          <TEXT><![CDATA[The leader of each of Canada's province is called _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Prime Minister]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[the Mayor]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Member of Parliament]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[the Premier]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q09.mp3</AUDIO>
+          <TEXT><![CDATA[Canada's system of government is called:]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[a republican democracy with an elected president]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[a people’s democracy with an elected prime minister]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[a Christian dictatorship with an appointed head of state]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[a parliamentary democracy with a constitutional monarchy]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q10.mp3</AUDIO>
+          <TEXT><![CDATA[The three parts of Parliament are:]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[the Queen, the Senate and the House of Commons]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Senate, the House of Commons and Her Majesty’s Loyal Opposition]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Supreme Court, the House of Lords, and the Queen]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Queen, the Privy Council Office, and the Caucus]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q11.mp3</AUDIO>
+          <TEXT><![CDATA[How do Canadians choose their Prime Minister?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[The caucus chooses the Prime Minister.]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The Governor-General appoints the Prime Minister.]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[The leader of the party in power becomes the Prime Minister.]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The Leadership Convention votes for the Prime Minister.]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q12.mp3</AUDIO>
+          <TEXT><![CDATA[How does a Canadian become a senator?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[The Prime Minister chooses and the Governor-General appoints senators.]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The Governor-General chooses and the Prime Minister appoints senators.]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[Parliament chooses and the Prime Minister appoints senators.]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[The Prime Minister appoints senators.]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q13.mp3</AUDIO>
+          <TEXT><![CDATA[What do the initials “M.P.” stand for in Canadian politics?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[Military Police]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[Mounted Police]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[Member of Parliament]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[Monetary Policy]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q14.mp3</AUDIO>
+          <TEXT><![CDATA[By what process do Canadians choose their Members of Parliament?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[a provincial election]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[a nomination]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[a federal election]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[an appointment]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q15.mp3</AUDIO>
+          <TEXT><![CDATA[Members of Parliament represent:]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[adult voters in their electoral district]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[everyone in their electoral district]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[party supporters in their electoral district]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[party members in their electoral district]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q16.mp3</AUDIO>
+          <TEXT><![CDATA[There are _______ ridings or electoral districts in Canada.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[over 400]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[fewer than 300]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[over 300]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[more than 400]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q17.mp3</AUDIO>
+          <TEXT><![CDATA[What is the official name of the opposing party that is not in power?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[the House of Commons]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Senate]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Supreme Court]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[Her Majesty's Loyal Opposition]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q18.mp3</AUDIO>
+          <TEXT><![CDATA[The Prime Minister chooses cabinet ministers from amongst the Members of Parliament; these ministers:<br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[vote in the Senate]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[vote in the Supreme Court]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[run a provincial government]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[run federal government departments]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q19.mp3</AUDIO>
+          <TEXT><![CDATA[When Parliament passes a bill, it becomes a _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[vote]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[judgement]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[law]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[verdict]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q20.mp3</AUDIO>
+          <TEXT><![CDATA[What is the final step before a bill becomes law?]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[it receives approval from Parliament]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[it receives royal assent from the Governor-General]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the House of Commons debates it]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the Senate passes it]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q21.mp3</AUDIO>
+          <TEXT><![CDATA[A _______ belongs to the federal or provincial government.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[society]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[corporate company]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[royal family]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[Crown corporation]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <AUDIO isAnswer="TRUE">M13-A15-Q22.mp3</AUDIO>
+          <TEXT><![CDATA[The _______ is Canada's government-owned national television and radio network; it provides programmes created and produced by Canadians.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[C.T.V. (Canadian Television Network Limited)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[N.F.B. (National Film Board of Canada)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[C.B.S. (Columbia Broadcasting System)]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[C.B.C. (Canadian Broadcasting Corporation)]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

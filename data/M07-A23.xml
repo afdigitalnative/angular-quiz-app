@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on the Play button to hear the description of the explorer, then drag the name of the correct explorer next to the corresponding mini-biography.]]></COL>
+      <COL><![CDATA[Cliquez sur le bouton de lecture pour entendre la description de l'explorateur, puis glissez le nom de l'explorateur à côté de la mini-biographie correspondante.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[How much do you know about early Canadian explorers? <br />In this activity you will be exposed to verbs in the past tense, which will be covered formally in Module 11.]]></COL>
+      <COL><![CDATA[Connaissez-vous les premiers explorateurs qui ont foulé le sol canadien? <br />Dans cette activité, vous verrez des verbes conjugués au passé, ce temps sera traité plus spécifiquement dans le Module 11.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Leif Ericsson.mp3</AUDIO>
+					<TEXT><![CDATA[<b>Norwegian navigator;</b> son of Erik the Red (discoverer of Greenland); he left Greenland and arrived on the shores of Newfoundland or Nova Scotia around 1000; he felt that he had to name this land Vinland because of the vines he saw there. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Leif Ericsson]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Christopher Columbus.mp3</AUDIO>
+					<TEXT><![CDATA[<b>Italian-born Spanish explorer;</b> he wanted to find India; he crossed the Atlantic and found the New World, which he thought was India in 1492; he took three further trips between 1493 and 1504. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Christopher Columbus]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>	
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">John Cabot.mp3</AUDIO>
+					<TEXT><![CDATA[<b>Venetian explorer;</b> he got support from England, and landed on the shores of Newfoundland, Labrador and Cape Breton in 1497; he became the first known European who landed in North America; his second voyage, in 1498, did not return home. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[John Cabot]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+					
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Jacques Cartier.mp3</AUDIO>
+					<TEXT><![CDATA[<b>French explorer;</b> he sailed up the St. Lawrence River (1534-41) as far as present-day Montreal and built a fort at Cap-Rouge (near present-day Quebec City). {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Jacques Cartier]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Samuel de Champlain.mp3</AUDIO>
+					<TEXT><![CDATA[<b>French explorer and governor of New France;</b> the French government sent him to Quebec in order to establish a settlement at Quebec in 1608; he traded with Aboriginal peoples and explored the Canadian interior. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Samuel de Champlain]]></TEXT></ANSWER>
+						</ANSWERSET>
+						
+					
+				</QUESTION>
+				</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">	
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Henry Hudson.mp3</AUDIO>
+					<TEXT><![CDATA[<b>English explorer;</b> he looked for the Northwest Passage in 1610 and took a crew from Hudson Bay into James Bay; after they spent the winter there, the crew revolted and set him adrift. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Henri Hudson]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+					
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Etienne Brule.mp3</AUDIO>
+					<TEXT><![CDATA[<b>French explorer;</b> he was probably the first European who saw Lakes Ontario, Huron and Superior, and the first Frenchman who lived with the Aboriginal peoples. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Étienne Brûlé]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Pierre-Esprit Radisson.mp3</AUDIO>
+					<TEXT><![CDATA[<b>French-born explorer and fur trader;</b> with his brother-in-law Des Groseilliers, he explored the area around Lakes Superior and Michigan; he travelled to Hudson Bay in 1668 on behalf of English merchants (the core of the Hudson's Bay Company). {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Pierre-Esprit Radisson]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">James Cook.mp3</AUDIO>
+					<TEXT><![CDATA[<b>English explorer and navigator;</b> he made maps of the St. Lawrence River and the coasts of Nova Scotia and Newfoundland (1759-67). {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Captain James Cook]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO isAnswer="TRUE">Sir Alexander Mackenzie.mp3</AUDIO>
+					<TEXT><![CDATA[<b>Scottish-born fur trader and explorer;</b> his father brought him to North America in 1774 and he entered a Montreal fur trading company in 1779; he explored from Lake Athabasca along the Mackenzie River to the Arctic Ocean, and later went from Fort Chipewyan to the Pacific. {0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Sir Alexander Mackenzie]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+			</QUESTIONS>
+		</SECTION>
+  </SECTIONS>
+</ACTIVITY>

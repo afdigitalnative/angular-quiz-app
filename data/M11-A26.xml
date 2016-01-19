@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Click on the answer that seems right. The correct answers will follow.]]></COL>
+      <COL><![CDATA[Cliquez sur la réponse qui vous semble être la bonne. Les bonnes réponses apparaîtront par la suite.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Go ahead! Guess at the answers to this “worldly” quiz – but don’t be surprised if your first instincts play tricks on you.]]></COL>
+      <COL><![CDATA[Allez-y! Devinez les réponses de ce questionnaire « du monde », mais ne soyez pas surpris(e) si votre instinct vous joue des tours.&nbsp;]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[The Hundred Years War lasted for _______ years.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[ninety-nine]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[one hundred]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[one hundred and sixteen]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[one hundred and seven]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[_______ makes Panama hats.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[Ecuador]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[Bolivia]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[China]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[Panama]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[We get catgut from _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[the resin of coniferous trees]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[sheep and horses]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[cow manure]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[cats]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[Russians celebrate the October Revolution in _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[November]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[February]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[October]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[September and October]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[The hair of an artist's camel-hair brush is _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[camel's hair]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[horsehair]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[dromedary hair]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[squirrel-tail fur]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The Canary Islands got their name from the word “_______”.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[cat]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[canary]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[dog]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[budgie]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[King George VI's first name was _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[Andrew]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[Albert]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[Giorgio]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[George]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The purple finch has _______ feathers.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[black]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="TRUE">
+              <TEXT><![CDATA[crimson]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[purple]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[mauve]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[Chinese gooseberries are from _______.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[China]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[Taiwan]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[Canada]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[New Zealand]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+        <QUESTION>
+          <TEXT><![CDATA[The Thirty Years War lasted for _______ years.]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[thirty]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[thirty-seven]]></TEXT>
+            </ANSWER>
+            <ANSWER correct="FALSE">
+              <TEXT><![CDATA[thirty-one]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[twenty-nine]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION></SECTIONS>
+</ACTIVITY>

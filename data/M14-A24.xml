@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[This activitiy is divided into three sections:<br /><br />
+
+<li>(PAGE 1) Unscramble the “elements”.</li>
+<li>(PAGE 2) Drag the most appropriate name (ailment, medication, etc.) into each box.</li>
+<li>(PAGE 3) Click on the correct word form.</li>
+
+<br />Press the "Enter" key after typing to validate each answer.]]></COL>
+      <COL><![CDATA[Cette activité est divisée en trois sections:<br /><br />
+
+<li>(PAGE 1) Démêlez les « éléments ».</li>
+<li>(PAGE 2) Glissez le nom approprié (maladie, médication, etc.) dans chaque case</li>
+<li>(PAGE 3) Cliquez sur la bonne forme du mot.</li>
+
+<br />Appuyez sur « Entrée » pour valider chaque réponse.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Like Mr. Cordial, are you getting on in years? How would you describe your physical condition and special needs?]]></COL>
+      <COL><![CDATA[Comme Monsieur Cordial, prenez-vous de l’âge? Comment décririez-vous votre état physique et vos besoins particuliers?]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+<OBJECTIVE><![CDATA[Remember, old folks are worth a fortune, with:]]></OBJECTIVE>
+      <QUESTIONS shuffle="FALSE">
+
+        <QUESTION>
+
+          <TEXT><![CDATA[<b>(rvisle) </b>{0} in their hair,]]></TEXT>
+          
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+
+            <ANSWER correct="TRUE"><TEXT><![CDATA[silver]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+
+        <QUESTION>
+          
+          <TEXT><![CDATA[<b>(lgdo)</b> {0} in their teeth,]]></TEXT>
+          
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+
+            <ANSWER correct="TRUE"><TEXT><![CDATA[gold]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+
+        <QUESTION>
+
+          <TEXT><![CDATA[<b>(tessno)</b> {0} in their kidneys,]]></TEXT>
+          
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            
+            <ANSWER correct="TRUE"><TEXT><![CDATA[stones]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+        
+        <QUESTION>
+          
+          <TEXT><![CDATA[<b>(adle)</b> {0} in their feet, and]]></TEXT>
+
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+
+            <ANSWER correct="TRUE"><TEXT><![CDATA[lead]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+
+        <QUESTION>
+
+          <TEXT><![CDATA[<b>(ags)</b> {0} in their stomachs.]]></TEXT>
+          
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="INPUT">
+            
+            <ANSWER correct="TRUE"><TEXT><![CDATA[gas]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+
+      </QUESTIONS>
+
+    </SECTION>
+    
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[<div>I have become a little older since I saw you last and a few changes have come into my life since then. Frankly, I have become quite a frivolous old gal; I am seeing five gentlemen every day. As soon as I wake up, {0} motivates me to get out of bed. Then I go to the bathroom to see {1}. Then {2} comes along and creates a painful cramp in my leg, which takes up a lot of my time and attention. When he leaves, {3} shows up and spends the day; he doesn’t much care to stay in one place very long, so he takes me from “joint to joint” . After such a busy day I’m really tired and glad to go to bed with {4}, who soothes my aching muscles. What a life!</div>]]></TEXT>
+                  
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+            <ANSWER CORRECT="TRUE"><TEXT><![CDATA[Ben Gay]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[John]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Charlie Horse]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Will Power]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Arthur Ritis]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+            <ANSWER><TEXT><![CDATA[Ben Gay]]></TEXT></ANSWER>
+
+            <ANSWER CORRECT="TRUE"><TEXT><![CDATA[John]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Charlie Horse]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Will Power]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Arthur Ritis]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+            <ANSWER><TEXT><![CDATA[Ben Gay]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[John]]></TEXT></ANSWER>
+
+            <ANSWER CORRECT="TRUE"><TEXT><![CDATA[Charlie Horse]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Will Power]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Arthur Ritis]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+            <ANSWER><TEXT><![CDATA[Ben Gay]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[John]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Charlie Horse]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Will Power]]></TEXT></ANSWER>
+
+            <ANSWER CORRECT="TRUE"><TEXT><![CDATA[Arthur Ritis]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="DROPDOWN" roleType="VERB">
+
+            <ANSWER CORRECT="TRUE"><TEXT><![CDATA[Ben Gay]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[John]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Charlie Horse]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Will Power]]></TEXT></ANSWER>
+
+            <ANSWER><TEXT><![CDATA[Arthur Ritis]]></TEXT></ANSWER>
+
+          </ANSWERSET>
+
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+
+    <SECTION>
+      <QUESTIONS shuffle="FALSE">
+        <QUESTION>
+          <TEXT><![CDATA[P.S. The Preacher came to call the other day.<br />He said that at my age, I should be thinking about the {0}. I told him, <i>“Oh, I do, all the time! No matter where I am – in the parlour, upstairs, in the kitchen or down in the basement – I ask myself, ‘Now, what am I {1}?’ ”</i><br /><br />]]></TEXT>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[hereafter]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[here after]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+          <ANSWERSET shuffle="FALSE" maxAttempts="1" controlType="BUTTON">
+            <ANSWER CORRECT="FALSE">
+              <TEXT><![CDATA[hereafter]]></TEXT>
+            </ANSWER>
+            <ANSWER CORRECT="TRUE">
+              <TEXT><![CDATA[here after]]></TEXT>
+            </ANSWER>
+          </ANSWERSET>
+        </QUESTION>
+      </QUESTIONS>
+    </SECTION>
+
+  </SECTIONS>
+</ACTIVITY>

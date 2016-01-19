@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Drag each answer from the list to the appropriate box to complete the sentence.]]></COL>
+      <COL><![CDATA[À partir de la liste, glissez la réponse approprié dans la case vide correspondante afin de compléter la phrase.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Did you know that the negative form of the <b>present progressive</b> (or "present continuous") tense is formed simply by adding <b>"not"</b> (or another negation) between the auxiliary <b>"to be"</b> and the <b>"-ing"</b> verb form?]]></COL>
+      <COL><![CDATA[Saviez-vous qu'au <b>présent progressif</b> (ou « présent continu »), on forme une phrase négative en plaçant <b>« not »</b> (ou une autre négation) entre l'auxiliaire <b>« to be »</b> et le verbe en <b>« -ing » </b>?]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE">
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[I'm {0} ill at {1} moment.]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[feeling]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[the]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[This {0}, I'm not {1} {2} breakfast {3} {4} hungry.]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[morning]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[having]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[any]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[because]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[I'm not]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[{0} is {1} answering your {2} because he {3} not {4} today.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[Mr. Lowe]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[not]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[calls]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[is]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[working]]></TEXT></ANSWER>
+						</ANSWERSET>
+						
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[Mr. Lowe {0} having {1} problems {2} his employees; {3} are not {4} to him.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[is]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[some]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[with]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[they]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[listening]]></TEXT></ANSWER>
+						</ANSWERSET>
+						
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[I am {0} {1} the {2} today, I am {3} home.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[not]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[taking]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[bus]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[walking]]></TEXT></ANSWER>
+						</ANSWERSET>
+												
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[He {0} {1} enjoying his {2}; {3} is {4} {5} a {6} to the {7}.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[is]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[not]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[work]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[he]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[not]]></TEXT></ANSWER>
+						</ANSWERSET>	
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[making]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[contribution]]></TEXT></ANSWER>
+						</ANSWERSET>	
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[company]]></TEXT></ANSWER>
+						</ANSWERSET>				
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[{0} are{1} {2} my questions {3} {4} you {5} listening to {6}.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[You]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[n't]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[answering]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[today]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[because]]></TEXT></ANSWER>
+						</ANSWERSET>	
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[aren't]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[me]]></TEXT></ANSWER>
+						</ANSWERSET>	
+										
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+    <SECTION>
+			<QUESTIONS shuffle="FALSE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA[My {0} {1} walking {2} the park at the {3}; {4} is {5} in {6} office.]]></TEXT>
+					    <ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[wife]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[isn't]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[in]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[moment]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[she]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[working]]></TEXT></ANSWER>
+						</ANSWERSET>
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA[the]]></TEXT></ANSWER>
+						</ANSWERSET>			
+					
+				</QUESTION>
+			</QUESTIONS>
+		</SECTION>
+  </SECTIONS>
+</ACTIVITY>

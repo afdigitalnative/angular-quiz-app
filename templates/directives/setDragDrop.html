@@ -1,0 +1,25 @@
+<div class="row under_question">
+
+    <div class="col-md-12">
+        <label ng-init="(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+
+            <span ng-bind-html="drop_down_texts[0] | sanitize"></span>
+            
+            <span ng-disabled = "meta[question_id].disabled" data-question-id="{{question_id}}" x-on-drop="dropped(question.ANSWERSET.ANSWER.TEXT)" class="slot" x-lvl-draggable='true' x-lvl-drop-target="true" >{{meta[question_id]['selected']}}</span>
+
+            <span ng-class="meta[question_id]['ansClass']" ng-show="meta[question_id]['showResult']">
+                <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}">
+            </span>
+
+            <span ng-bind-html="drop_down_texts[1] | sanitize"></span>
+
+
+        </label>
+    </div>
+
+
+    <div class="singlelist">
+            <div class="peg" x-lvl-draggable="true"  data-correct-answer="{{get_correct_answer(question.ANSWERSET.ANSWER)}}" data-question-id="{{question_id}}" data-maxattempt="{{question.ANSWERSET['@maxAttempts']}}">{{question.ANSWERSET.ANSWER.TEXT}}</div>
+
+    </div>
+</div>

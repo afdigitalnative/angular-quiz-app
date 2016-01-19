@@ -1,0 +1,143 @@
+<!--<div ng-repeat="audio in csection.AUDIOS.AUDIO">-->
+<!--<span ng-if="audio.TEXT" ng-bind="audio.TEXT" class="pull-left"></span>-->
+<!--<div ng-if="audio.AUDIO" class="pull-left mar-right-5">-->
+<!--<audio ng:src="{{getAssetsPath(audio.PATH)}}" controls>-->
+<!--<p>Your browser does not support the <code>audio</code> element </p>-->
+<!--</audio>-->
+<!--</div>-->
+<!--</div>-->
+
+<audio id="load_audio" controls>
+    <p>Your browser does not support the <code>audio</code> element </p>
+</audio>
+
+
+
+<div class="{{$parent.$parent.selectedActivity.type}} {{chk_is_array(csection.QUESTIONS.QUESTION)}} containerrr">
+    <div ng-if="csection.IMAGE" class="s-img">
+        <img ng-src="{{getImageAssetsPath(csection.IMAGE)}}">
+    </div>
+    <div ng-if="chk_is_array(csection.QUESTIONS.QUESTION)" ng-repeat="question in csection.QUESTIONS.QUESTION" class="questionObj {{$parent.$parent.$parent.selectedActivity.type}}" on-finish-render="ngRepeatFinished">
+        <div class="questionWrapper">
+            <div class="questionNumber">
+                <span ng-bind="set_lastest_number((csection.QUESTIONS.QUESTION.length * ($parent.$parent.$parent.currentPageNum - 1) + ($index + 1))) + ' . '"></span>
+            </div>
+            <div class="questionAsset " ng-class="{audio_question:question.AUDIO}">
+                <div ng-if="question.AUDIO">
+                    <span ng-click="play_audio(question.AUDIO)"><img src="images/play.png" alt="Play"></span>
+                </div>
+                <div ng-if="question.IMAGE">
+                    <img ng-src="{{getImageAssetsPath(question.IMAGE)}}" class="q-img">
+                </div>
+            </div>
+            <div ng-if="$parent.$parent.$parent.selectedActivity.type != 'DragAndDrop' && $parent.$parent.$parent.selectedActivity.type != 'FillInTheBlank'" class="questionText">
+                <span ng-if="question.TEXT && getControlType(question) != 'dropdown' && getControlType(question) != 'input'" ng-bind-html="displayAsText(question) | sanitize"
+                      class="pull-left questionText"></span>
+
+                <div class="mc-choices"
+                     ng-init="question_id = 'page_'+ $parent.$parent.$parent.$parent.currentPageNum + '_question_' + $index;
+                     drop_down_texts = get_drop_down_text_array(displayAsText(question))">
+
+                    <answer-set
+                        class = "{{getControlType(question)}}"
+                        ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                    </answer-set>
+
+                </div>
+            </div>
+
+            <div ng-if="$parent.$parent.$parent.selectedActivity.type == 'FillInTheBlank'" class="questionText">
+                <span ng-if="question.TEXT && getControlType(question) != 'dropdown' && getControlType(question) != 'input'" ng-bind-html="displayAsText(question) | sanitize"
+                      class="pull-left questionText"></span>
+
+                <div ng-if="$parent.$parent.$parent.$parent.selectedActivity.singlequestion_multianswer == true" class="mc-choices"
+                     ng-init="question_id = 'page_'+ $parent.$parent.$parent.$parent.$parent.currentPageNum + '_question_' + $index;
+                     drop_down_texts = get_drop_down_text_array(displayAsText(question));
+                     dropDownTextsCount = get_drop_down_text_array_count(drop_down_texts)">
+
+                    <answer-set
+                        class = "{{getControlType(question)}}">
+                    </answer-set>
+                </div>
+
+                <div ng-if="$parent.$parent.$parent.$parent.selectedActivity.singlequestion_multianswer === undefined" class="mc-choices"
+                     ng-init="question_id = 'page_'+ $parent.$parent.$parent.$parent.$parent.currentPageNum + '_question_' + $index;
+                     drop_down_texts = get_drop_down_text_array(displayAsText(question))">
+
+                    <answer-set
+                        class = "{{getControlType(question)}}"
+                        ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                    </answer-set>
+
+                </div>
+            </div>
+
+            <div ng-if="$parent.$parent.$parent.selectedActivity.type == 'DragAndDrop'" class="questionText">
+
+                <div class="mc-choices"
+                     ng-init="question_id = 'page_'+ $parent.$parent.$parent.$parent.currentPageNum + '_question_' + $index;
+                     drop_down_texts = get_drop_down_text_array(displayAsText(question))">
+
+                    <answer-set
+                        class = "drag_and_drop"
+                        ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                    </answer-set>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<div ng-if="$parent.$parent.selectedActivity.type == 'DragAndDrop'" class="dragdropanswers3 col-md-3">
+</div>
+
+<div ng-if="chk_is_array(csection.QUESTIONS.QUESTION) == false" class="questionObj {{$parent.$parent.selectedActivity.type}}">
+
+    <div class="questionWrapper">
+        <div class="questionNumber">
+            <span class="pull-left mar-right-5">{{get_current_number($parent.$parent.currentPageNum)}} .  </span>
+        </div>
+        <div class="questionAsset " ng-class="{audio_question:csection.QUESTIONS.QUESTION.AUDIO}">
+            <div ng-if="csection.QUESTIONS.QUESTION.AUDIO">
+                <span ng-click="play_audio(csection.QUESTIONS.QUESTION.AUDIO)"><img src="images/play.png" alt="Play"></span>
+            </div>
+            <div ng-if="csection.QUESTIONS.QUESTION.IMAGE">
+                <img ng-src="{{getImageAssetsPath(csection.QUESTIONS.QUESTION.IMAGE)}}" class="q-img">
+            </div>
+        </div>
+        
+        <div ng-if="$parent.$parent.selectedActivity.type !== 'DragAndDrop' && 
+        getControlType(csection.QUESTIONS.QUESTION) == 'button'" class="questionText">
+                <div class="mc-choices">
+                    <answer-set
+                        class = "{{getControlType(csection.QUESTIONS.QUESTION)}}"
+                        ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                    </answer-set>
+                </div>
+        </div>
+
+        <div ng-if="$parent.$parent.selectedActivity.type === 'FillInTheBlank' && 
+        getControlType(csection.QUESTIONS.QUESTION) == 'dropdown' && 
+        $parent.$parent.selectedActivity.type != 'DragAndDrop'" class="questionText">
+
+            <span ng-if="csection.QUESTIONS.QUESTION.TEXT && getControlType(csection.QUESTIONS.QUESTION) != 'dropdown' && getControlType(csection.QUESTIONS.QUESTION) != 'input'" ng-bind-html="displayAsText(csection.QUESTIONS.QUESTION) | sanitize"
+                  class="pull-left questionText"></span>
+
+            <div class="mc-choices">
+                <answer-set 
+                    class = "drop_down_single" ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                </answer-set>
+
+            </div>
+       
+        </div>        
+        <div ng-if="$parent.$parent.selectedActivity.type == 'DragAndDrop'" class="questionText">
+            <div class="mc-choices">
+                <answer-set class = "drag_drop_single" ng-init = "(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+                </answer-set>
+            </div>
+        </div>            
+    </div>
+</div>

@@ -1,0 +1,27 @@
+<div class="element" ng-repeat="answerset in question.ANSWERSET"
+       ng-init="question_id = question_id +'_'+$index;(meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+
+    <span ng-bind-html="drop_down_texts[$index] | sanitize"></span>
+
+    <select class="form-control ng-valid ng-dirty ng-valid-parse ng-touched dropdownselect left"
+            ng-disabled = "meta[question_id].disabled"
+            ng-init="selectedItem = meta[question_id]['selected'] ? meta[question_id]['selected'] : ''"
+            ng-model="selectedItem"
+            ng-options="answer.TEXT for answer in answerset.ANSWER"
+            ng-selected="selectedItem.TEXT"
+            ng-change= "validate(get_correct_answer(selectedItem), question_id, answerset['@maxAttempts'],answer.TEXT, 'setMulti_Drop_down')"
+            >
+            <option value=""></option>
+    </select>
+
+    <span ng-class="meta[question_id]['ansClass'] left" ng-show="meta[question_id]['showResult']">
+        <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+         ng-if="meta[question_id]['selected']==answer.TEXT || meta[question_id]['selected']==answer.IMAGE || meta[question_id]['selected']==answer.AUDIO">
+    </span>
+
+    <!--<span ng-if="$last" ng-bind-html="drop_down_texts[$index+1] | sanitize"></span>-->
+
+</div>
+<div class="element inputText" >
+    <div ng-bind-html="drop_down_texts[dropDownTextsCount-1] | sanitize" class="left"></div>
+</div>

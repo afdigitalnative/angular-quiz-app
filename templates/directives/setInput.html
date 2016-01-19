@@ -1,0 +1,54 @@
+<span class="element setInput"
+      ng-if="question.ANSWERSET.ANSWER"
+      ng-init="question_id = question_id +'_'+ $index;
+              (meta[question_id] === undefined) ? meta[question_id]={} : meta[question_id]=meta[question_id]" >
+
+    <span class="text" ng-bind-html="drop_down_texts[0] | sanitize"></span>
+
+    <input ng-init="selectedItem = meta[question_id].input_text ? meta[question_id].input_text : ''"
+           type="text"
+           class="form-control ng-pristine ng-valid ng-touched"
+           ng-disabled = "meta[question_id].disabled"
+           ng-model="selectedItem"
+           ng-enter = "validate(selectedItem, question_id, question.ANSWERSET['@maxAttempts'], getAnswerText(question.ANSWERSET.ANSWER), 'input')"/>
+
+    <span ng-bind-html="drop_down_texts[1] | sanitize"></span>
+
+     <span ng-class="meta[question_id]['ansClass']"
+           ng-show="meta[question_id]['showResult']">
+        <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+             ng-if="meta[question_id]['selected']">
+    </span>
+</span>
+
+<div class="element inputText"
+     ng-if="question.ANSWERSET[0].ANSWER"
+     ng-repeat-start="answerset in question.ANSWERSET"
+     ng-init="question_id = question_id +'_'+ $index;
+              (meta[question_id] === undefined) ? meta[question_id]={} : meta[question_id]=meta[question_id]" >
+
+    <div class="left" ng-bind-html="drop_down_texts[$index] | sanitize"></div>
+    
+    <input data-question="{{question_id}}"
+           ng-init="selectedItem = meta[question_id].input_text ? meta[question_id].input_text : ''"
+           type="text"
+           class="form-control ng-pristine ng-valid ng-touched left"
+           ng-disabled = "meta[question_id].disabled"
+           ng-model="selectedItem"
+           ng-enter = "validate(selectedItem, question_id, answerset['@maxAttempts'],answerset.ANSWER.TEXT, 'input')">
+    
+
+    <div class="left" ng-class="meta[question_id]['ansClass']" ng-show="meta[question_id]['showResult']">
+        <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+             ng-if="meta[question_id]['selected']==answerset.ANSWER.TEXT ||
+                    meta[question_id]['selected']==answerset.ANSWER.IMAGE ||
+                    meta[question_id]['selected']==answerset.ANSWER.AUDIO">
+    </div>
+
+    <!--<div ng-if="$last" ng-bind-html="drop_down_texts[$index+1] | sanitize" class="left last"></div>-->
+</div>
+<div class="element inputText"
+     ng-if="question.ANSWERSET[0].ANSWER">
+    <div ng-bind-html="drop_down_texts[dropDownTextsCount-1] | sanitize" class="left"></div>
+</div>
+<div ng-repeat-end=""></div>

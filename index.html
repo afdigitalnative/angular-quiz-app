@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html ng-app="quizApp" xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<base href="/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Quiz Application</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" />
+<link href="css/style.css" rel="stylesheet" />
+<link href="css/ngDialog.css" rel="stylesheet" />
+<link href="css/slideDown.css" rel="stylesheet" />
+<link href="css/rzslider.css" rel="stylesheet" />
+<link href="css/angular.rangeSlider.css" rel="stylesheet" />
+<link href="css/ngDialog-theme-default.css" rel="stylesheet" />
+<link href="css/ngDialog-theme-flat.css" rel="stylesheet" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+<script src="scripts/angular.min.js"></script>
+<script src="scripts/angular-animate.js"></script>
+<script src="scripts/angular-ui/angular-ui-router.js"></script>
+<script src="scripts/angular-route.min.js"></script>
+<script src="scripts/angular-resource.min.js"></script>
+<script src="scripts/angular-ui/ui-bootstrap-tpls.min.js"></script>
+<script src="scripts/lvl-uuid.js"></script>
+<script src="scripts/lvl-drag-drop.js"></script>
+<script src="scripts/xml2json.js"></script>
+<script src="scripts/ngDialog.js"></script>
+<script src="scripts/rzslider.js"></script>
+<script src="scripts/paging.js"></script>
+<script src="scripts/angular.rangeSlider.js"></script>
+<script src="scripts/angular-aria.js"></script>
+<script src="js/app.js"></script>
+<script src="js/helperService.js"></script>
+<script src="js/accessibilityController.js"></script>
+<script src="js/quizController.js"></script>
+<script src="js/questionsController.js"></script>
+<script src="js/filter/filterHTML.js"></script>
+<script src="js/directives/question.js"></script>
+<script src="js/service/activity.js"></script>
+<script src="js/directives/answerset.js"></script>
+<script src="js/directives/ngenter.js"></script>
+<script src="js/directives/onFinishRender.js"></script>
+
+</head>
+<body ng-controller="quizController" class="{{selectedBodyClass}}">
+  <header>
+    <nav id="navi_header" class="navbar navbar-default navbar-static-top ">
+      <div class="topheader">
+        <a class="navbar-brand">
+          <img src="images/logo.jpg" alt="LRDG-LCMS">
+        </a>
+        <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="collapse navbar-collapse navHeaderCollapse">
+          <ul id="nav_ul" class="nav navbar-nav navbar-right">
+            <li><a ui-sref="instructions"><strong>OBJECTIVES</strong></a></li>
+            <li>
+              <a ng-click="open()"> <strong>ACCESSIBILITY</strong> </a>
+            </li>
+            <li class="li-lang">
+              <a>
+                <strong><span id="span-fr">FR</span>/<span id="span-en">EN</span></strong>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="module-title">
+        <div class="row">
+          <div class="module-info">
+              <a ui-sref="content"><img src="images/menu.png" alt="Learning Menu"></a>
+            <span>MODULE</span>
+              <span class="right">Version : 0.15</span>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="">
+    <div class="main container">
+        <div data-ui-view></div>
+    </div>
+  </div>
+
+</body>
+<script src="scripts/tota11y.min.js"></script>
+</html>

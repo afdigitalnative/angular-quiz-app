@@ -1,0 +1,30 @@
+<div>
+    <h2>Accessibility</h2>
+    <div>
+        <p>Display Theme</p>
+        <div>
+            <div ng-repeat="bodyClass in bodyClasses">
+                <label>
+                    <input name="selectedBodyClass" type="radio" value="{{bodyClass.class}}" ng-model="$parent.selectedBodyClass" />
+                    {{bodyClass.name}}
+                </label>
+            </div>
+        </div>
+    </div>
+    <div>
+        <p>Font Ratio</p>
+        <rzslider rz-slider-model="fontSize"
+                  rz-slider-floor="0"
+                  rz-slider-ceil="4"
+                  rz-slider-translate="fontTranslate"
+                  rz-slider-tpl-url="rzSliderTpl.html"></rzslider>
+    </div>
+    <div>
+        <p>Volume</p>
+        <div range-slider min="0" max="100" model-max="volumePercentage.max" pin-handle="min"></div>
+    </div>
+    <div class="ngdialog-buttons mt">
+        <button ng-click="cancelChanges()" class="ngdialog-button ngdialog-button-primary" type="button">Cancel</button>
+        <button ng-click="applyChanges()" class="ngdialog-button ngdialog-button-primary" type="button">Apply</button>
+    </div>
+</div>

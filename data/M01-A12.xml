@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<ACTIVITY>
+  <INSTRUCTIONS>
+    <ROW>
+      <COL><![CDATA[Complete the following sentences by dragging the proposed items to their correct position.]]></COL>
+      <COL><![CDATA[Complétez les phrases suivantes en faisant glisser les items proposés au bon endroit.]]></COL>
+    </ROW>
+  </INSTRUCTIONS>
+  <LANDING>
+    <ROW>
+      <COL><![CDATA[Let’s get ready to talk! <br />In the following exercise, you will practice your written comprehension as well as your interactive writing skills by answering questions using the answer list.]]></COL>
+      <COL><![CDATA[Préparons-nous à discuter ! <br />L’exercice suivant concernent les interactions sociales. Vous pratiquerez votre compréhension et expression écrite en répondant aux questions à l’aide de la liste de réponses proposées.]]></COL>
+    </ROW>
+  </LANDING>
+  <SECTIONS shuffle="FALSE"><SECTION>
+			<QUESTIONS shuffle="TRUE">
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["What is your first name?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["Allan, and you?"]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["Is your name Robert?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["Yes, my name is Robert."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["Welcome to Ottawa!"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["Thank you!"]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["Is she pretty?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["Yes, she's pretty."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["Where is your apartment?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["It's on MacDonald Avenue."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+			</QUESTIONS>
+		</SECTION>
+		
+		<SECTION>
+			<QUESTIONS shuffle="TRUE">
+		
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["Are you American?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["Yes, I'm from Atlanta."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["This is my new friend Laura."{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["I'm pleased to meet you."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["How are you?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["I'm fine, thank you."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["How do you spell your first name?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["M-A-R-G-A-R-E-T."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				<QUESTION>
+					<AUDIO/>
+					<TEXT><![CDATA["What's your telephone number?"{0}]]></TEXT>
+					
+						<ANSWERSET shuffle="FALSE" maxAttempts="1">
+							<ANSWER CORRECT="TRUE"><TEXT><![CDATA["902-443-8927."]]></TEXT></ANSWER>
+						</ANSWERSET>
+					
+				</QUESTION>
+				
+				
+			</QUESTIONS>
+		</SECTION></SECTIONS>
+</ACTIVITY>

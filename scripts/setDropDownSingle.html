@@ -1,0 +1,20 @@
+<label ng-repeat="answerset in csection.QUESTIONS.QUESTION.ANSWERSET"
+       ng-init="question_id = 'page_'+ $parent.$parent.$parent.currentPageNum + '_question_' + $index; drop_down_texts = get_drop_down_text_array(displayAsText(csection.QUESTIONS.QUESTION)); (meta[question_id] === undefined)?meta[question_id]={}:meta[question_id]=meta[question_id]">
+
+    <span ng-bind-html="drop_down_texts[$index] | sanitize"></span>
+    
+    <select ng-disabled = "meta[question_id].disabled" ng-init="selectedItem = ''" ng-model="selectedItem">
+            <option value="">Select An Answer</option>
+            <option ng-repeat="answer in answerset.ANSWER"
+                    value="{{answer.TEXT}}"
+                    ng-click = "validate(get_correct_answer(answer), question_id, answerset['@maxAttempts'],answer.TEXT)">{{answer.TEXT}}</option>
+    </select>
+
+    <span ng-repeat="answer in answerset.ANSWER" ng-class="meta[question_id]['ansClass']" ng-show="meta[question_id]['showResult']">
+        <img ng-src="{{getImagePath(meta[question_id]['isTrue'])}}"
+         ng-if="meta[question_id]['selected']==answer.TEXT || meta[question_id]['selected']==answer.IMAGE || meta[question_id]['selected']==answer.AUDIO">
+    </span>
+
+    <span ng-if="$last" ng-bind-html="drop_down_texts[$index+1] | sanitize"></span>
+
+</label>
